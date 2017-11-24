@@ -1,13 +1,12 @@
-Want some equipment? Bring me silver coins.
-The Rohirrim are always wanting more materials.
-Welcome, #! What can I forge for you?
-Materials for equipment are always in short supply.
-I see you are a friend of Rohan, #.
-Might you be seeking some fine Rohirric equipment, #?
-I'm still looking for an apprentice...
-I forge the best weaponry in all of Rohan!
-For a few silver coins, I can give you the finest equipment in all of Rohan.
-My steel is the hardiest and my blades the sharpest!
-Welcome, #! What can I get you?
-You will find the best weaponry here, #!
-In these dark times materials are hard to come by, #.
+Voulez-vous du matériel ? Apportez-moi donc pièces d'argent.
+Les Hommes du Rohan veulent toujours plus de matériaux!
+Bienvenue, #! Que puis-je forger pour vous?
+il n'y a jamais assez de matériaux pour faire de l'équipement.
+Je vois que vous êtes un ami du Rohan, #.
+Je suis toujours à la recherche d'un apprenti ...
+Je forge la meilleure armure de tout le Rohan!
+Pour quelques pièces d'argent, je peux vous donner le meilleur équipement du Rohan.
+Mon acier est le plus solide et mes lames les plus aiguisées!
+Bienvenue, #! Que puis-je vous obtenir?
+Vous trouverez la meilleure arme ici, #!
+En ces temps sombres, les matériaux sont difficiles à trouver, #.
