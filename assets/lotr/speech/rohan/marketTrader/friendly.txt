@@ -14,7 +14,7 @@ De quoi avez-vous besoin, # ? Je suis sûr que je l'ai !
 Ah, mon bon ami # ! Comment puis-je vous aider aujourd'hui ?
 Venez voir ces articles, #. Vous ne le regretterez pas !
 Avez-vous des marchandises à vendre ?
-Avez-vous ude l'argent pour commercer ?
+Avez-vous de l'argent pour commercer ?
 Toutes les marchandises sont à vendre, # ?
 Que portez-vous, # ? Peut-être que je peux vous chercher un bon prix pour cela.
 Cherchez-vous des offres, # ? J'ai les meilleures offres.
