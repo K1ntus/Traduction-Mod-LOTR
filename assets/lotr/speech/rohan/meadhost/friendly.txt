@@ -1,20 +1,17 @@
-Welcome! Welcome to my hall, #!
-Welcome to @, #! What can I do for you today?
-This is @. As fine a place to lose your wits as any in Rohan.
-Getting a tingling feeling, #? If not, you haven't drunk enough!
-The finest mead in all of Rohan for just a few silver coins!
-We Men of Rohan love a good tankard of mead.
-What can I do for you, #?
-Ho! Ho! Ho! To the bottle I go. To heal my heart and drown my woe!
-Hungry? Thirsty? How can I help you today, #?
-You look like you need a good mug of mead!
-Here in the hall of @ we shall feast like kings.
-It is a fine day for a drink!
-Come in and make yourself at home, weary traveller.
-Good day, #.
-Freshly brewed mead and a hearty meal for only a few coins!
-Welcome to the finest hall in all the lands, #!
-What can I get you, #?
-Come, #! Come and rest! There's plenty of food and drink here!
-You will find the very best mead and ale here in @!
-We Rohirrim are renowned for our mead. Come and have a taste of it!
+Bienvenue ! Bienvenue dans mon auberge, # !
+Bienvenue à @, # ! Que puis-je faire pour vous aujourd'hui ?
+C'est @. Un bon endroit pour perdre la tête comme au Rohan.
+La meilleure hydromel du Rohan pour quelques pièces d'argent !
+Nous, les hommes du Rohan, nous aimons un bon chou à l'hydromel.
+Que puis-je faire pour vous, # ?
+Ho! Ho! Ho! Je vais à la bouteille. Pour guérir mon coeur et noyer mon malheur !
+Affamé ? Assoiffé ? Comment puis-je faire pour vous aider aujourd'hui, # ?
+Vous avez l'air d'avoir besoin d'une bonne tasse d'hydromel !
+Ici, à @, vous vous régalerez comme des rois.
+C'est une belle journée pour boire un verre !
+Entrez et faites comme chez vous, voyageur.
+Bonne journée, #.
+Une hydromel fraîche et un repas copieux pour seulement quelques pièces !
+Bienvenue dans la plus belle auverge de tour le pays, # !
+Viens, # ! Venez et reposez-vous ! Il y a beaucoup de nourriture et à boire !
+Nous sommes réputés pour notre hydromel. Venez et goûtez-y!

@@ -1,16 +1,15 @@
-No mead for you, scoundrel!
-Get out of my hall!
-I trade not with the foes of Rohan.
-Get out, you brigand!
-I shall serve nothing to you, #!
-Leave now before I force you to!
-You are no friend of Rohan, #.
-What folly brought you here?
-@ is not open to Rohan's enemies!
-I give no service to criminal scum like yourself!
-No! No mead for you. Get out!
-Leave or face the wrath of the Men of Rohan!
-You will have nothing from me, servant of evil!
-What madness drove you here?
-I will not serve the enemies of Rohan!
-You are not welcome here, #!
+Pas d'hydromel pour toi, canaille !
+Sortez de ma salle !
+Je ne commerce pas avec les ennemis du Rohan.
+Sortez, brigand !
+Je ne vous servirai rien, # !
+Vous n'êtes pas un ami du Rohan, #.
+Quelle folie t'a amené ici ?
+@ n'est pas ouvert aux ennemis du Rohan !
+Je ne rends aucun service aux criminels comme vous !
+Non ! Pas d'hydromel pour vous. Sortez !
+Pars ou affronte la colère des Hommes du Rohan !
+Tu n'auras rien de moi, serviteur du mal !
+Quelle folie vous a conduit ici ?
+Je ne servirai pas les ennemis du Rohan !
+Vous n'êtes pas le bienvenu ici, # !
