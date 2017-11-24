@@ -1,21 +1,18 @@
-I am a shieldmaiden of Rohan.
-Welcome to Rohan, #.
-We women of Rohan can fight as well as any man.
-Welcome to Rohan. From which land do you hail?
-Any woman of Rohan can fight just as well as a man, though few of us choose that path.
-The horses of Rohan are the finest in all Middle-earth.
-My duty is with my people, #. And if that means I must fight, then fight I shall.
-We must rid our lands of those vile Orcs!
-We women cannot hide in our homes while the shadow of Isengard grows long across these lands.
-The women-folk of Rohan are no less valiant than our men.
-There are many enemies abroad in these lands, #. Watch where you ride.
-The fortress of Helm's Deep has guarded our people in times of great need. I hope it will not come to that again.
-There are those who say that women should not fight in battle. What would they say, I wonder, should my sword save them from death?
-These are dark times for Rohan, #. Both our men and our women should be ready to take up arms, if need calls for it.
-I long to do battle with the foes of Rohan.
-I have trained with a sword since I was young. Now, I long for great deeds.
-Neither the wild Men of the hills nor the wolves of Isengard shall give me cause to fear.
-Have you heard the songs of Helm Hammerhand? They say he slew Dunlendings even to his last day on earth.
-Have you heard the songs of Helm Hammerhand? They say he was found dead in the snow, with the blood of Dunlendings still frozen on his hands.
-There are many great horses in these lands, #, and all are fit for battle.
-I have fought in battles before, #. Though I found need to disguise myself as a man.
+Je suis un bouclier du Rohan.
+Bienvenue au Rohan, #.
+Nous, les femmes du Rohan, nous pouvons nous battre aussi bien que n'importe quel homme.
+Bienvenue au Rohan. De quel pays venez-vous ?
+Toute femme du Rohan peut se battre aussi bien qu'un homme, même si peu d'entre nous choisissent ce chemin.
+Les chevaux du Rohan sont les meilleurs de toute la Terre du Milieu.
+Mon devoir est avec mon peuple, #. Et si cela signifie que je dois me battre, alors je vais me battre.
+Nous devons débarrasser nos terres de ces vils orcs !
+Nous les femmes ne pouvons pas nous cacher dans nos maisons pendant que l'ombre d'Isengard se développe à travers ces terres.
+Les femmes du Rohan ne sont pas moins vaillantes que nos hommes.
+La forteresse du Gouffre de Helm a su protéger notre peuple dans les moments de grand besoin. 
+Il y a ceux qui disent que les femmes ne devraient pas se battre au combat. Que diraient-ils, je me demande si mon épée les sauvait de la mort ?
+Ce sont des temps sombres pour le Rohan, #. Nos hommes et nos femmes devraient être prêts à prendre les armes, si le besoin l'exige.
+Il me tarde de me battre avec les ennemis du Rohan.
+Je m'entraîne avec une épée depuis que je suis jeune.
+Ni les hommes sauvages des collines, ni les loups d'Isengard ne me peur.
+Il y a beaucoup de grands chevaux dans ces terres, et tous sont prêts pour la bataille.
+Je me suis déjà battu dans des batailles avant, #. Bien que j'ai eu besoin de me déguiser en homme.
