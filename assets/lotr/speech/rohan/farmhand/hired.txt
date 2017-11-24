@@ -1,22 +1,16 @@
-Good day, #.
-The crops are growing well.
-Hello there, #.
-This is fertile soil.
-The green fields of the Mark are good for growing things, #.
-Ah, if only I had an ox to speed this up...
-There is much farming to be done.
-I'm working hard, as you can tell.
-It's nice of you to talk to me. We farmhands don't get much conversation.
-There's not a whole lot to be said about farming.
-Remember to keep hydrated!
-And how are you today, my friend #?
-Is it time for a break yet?
-We Rohirrim are great riders, but we are fine farmers too.
-Our crops will be ready soon!
-I hope the horses will get to eat plenty of this.
-Our horses love freshly grown crops.
-Another busy day on the farm, I suppose.
-They sing no songs of farmhands.
-The men in the mead halls tell no tales of great farmhands.
-It looks like it's about to rain, you know.
-Beware the trees of the Entwood!
+Bonne journée, #.
+Les cultures poussent bien.
+Bonjour, #.
+C'est un sol fertile.
+Ah, si seulement j'avais un bœuf pour accélérer ça ...
+Il y a beaucoup à faire.
+Je travaille dur, comme vous pouvez le voir.
+C'est gentil de ta part de me parler. Nous, agriculteurs, n'avons pas beaucoup de conversation.
+N'oubliez pas de rester hydraté !
+Et comment allez-vous aujourd'hui, mon ami ?
+Nous, Hommes du Rohirrim, sommes de bons cavaliers, mais nous sommes aussi de bons fermiers.
+Nos récoltes seront bientôt prêtes !
+Une autre journée bien remplie à la ferme, je suppose.
+Les hommes dans les tavernes ne racontent pas les histoires de grands ouvriers agricoles.
+On dirait qu'il va pleuvoir, tu sais.
+Méfiez-vous des arbres du bois des Ents !
