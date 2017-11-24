@@ -1,7 +1,7 @@
-We Rohirrim guard our horses carefully.
-You may know how to ride a horse, #, but how well does the horse know you?
-You'll have to go elsewhere, I'm afraid.
-We treasure our horses, #. I wouldn't just give them out to a stranger like you.
-Good day to you, #! Are you a friend of Rohan, or just passing by?
-I can't say I've seen you before.
-You're not from around these parts, are you?
+Nous hommes du Rohan gardons nos chevaux avec soin.
+Vous savez peut-être monter à cheval, mais à quel point le cheval vous connaît-il ?
+Tu vas devoir aller voir ailleurs, j'en ai peur.
+Nous chérissons nos chevaux, #. Je ne voudrais pas les donner à un étranger comme vous.
+Bonne journée, # ! Êtes-vous un ami de Rohan, ou juste un passant ?
+Je ne peux pas dire que je t'ai déjà vu.
+Vous n'êtes pas originaire de ces régions, n'est-ce pas ?
