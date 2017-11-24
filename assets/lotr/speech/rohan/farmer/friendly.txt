@@ -1,18 +1,16 @@
-Good day, #!
-Hello there, #! Do you want to buy any crops?
-You looking for some fine crops, #?
-Don't forget to not step on my crops!
-I hope you've not been stealing any crops!
-Got any farming equipment? I'll offer you a good price.
-I have some fresh crops that you'll like!
-I offer you the best crops in all of the Riddermark!
-I'm always in need of new farming tools! Get me some and we can trade!
-My farmhands are the hardest-working in the whole of the country! Bring me some silver coins and you can hire some.
-I take great pride in my produce.
-If you're looking for some finely-forged weapons, you've come to completely the wrong place!
-Did you know, #, that all the farmers in Rohan wear the same hats?
-Turnips, carrots, lettuces, wheat, I've got it all! Well, maybe not all, but you get the idea, #.
-These crops aren't free!
-Can you smell it, #? Ah, the country air!
-Don't forget to feed the horses!
-Horses, #. Oh, those horses love a good treat fresh out of the ground.
+Bonne journée, #!
+Bonjour, #! Voulez-vous acheter quelque chose dans mes récoltes ?
+N'oublie pas de ne pas marcher sur mes cultures !
+J'espère que vous ne m'avez pas volé de récoltes !
+Vous avez du matériel agricole ? Je vais vous offrir un bon prix.
+J'ai des récoltes fraîches que tu aimeras !
+Je vous offre les meilleures récoltes de tout le Riddermark !
+J'ai toujours besoin de nouveaux outils agraires ! Ramenez-moi en un peu et nous pouvons échanger !
+Mes ouvriers agricoles sont ceux qui travaillent le plus de tout le pays ! Apportez-moi des pièces d'argent et vous pouvez en louer.
+Je suis très fier de mes produits.
+Si vous cherchez des armes finement forgées, vous êtes complètement au mauvais endroit !
+Saviez-vous, #, que tous les agriculteurs du Rohan portent le même chapeau ?
+Navets, carottes, laitues, blé, j'ai tout ! Eh bien, peut-être pas tous, mais vous avez l'idée, #.
+Pouvez-vous le sentir, # ? Ah, l'air du pays!
+N'oublie pas de nourrir les chevaux!
+Les chevaux, #. Oh, les chevaux.
