@@ -1,11 +1,10 @@
-Only those greatly respected in our lands may command the riders of Rohan, #.
-If you seek to hire the service of the Rohirrim, you must first prove we can trust you.
-You seek to command the Rohirrim? You are no great lord of Rohan, #.
-Not until your name is sung alongside the heroes of yore may you command our warriors, #.
-We cannot fight beside one so young in deeds as you, #.
-Are you seeking to command the forces of Rohan? I have heard no tales of your great deeds, #.
-You will have to prove your allegiance to the Men of Rohan if you wish to command our mighty warriors.
-My men shall not follow any stranger to war!
-You will need to prove yourself first before you can command these valiant warriors.
-Only true friends of Rohan can lead my men to battle.
-Prove yourself to the Riddermark first and then I might let you command my men!
+Seuls ceux qui sont très respectés dans nos terres peuvent commander les cavaliers du Rohan, #.
+Si vous cherchez à engager le service des Rohirrim, vous devez d'abord prouver que nous pouvons vous faire confiance.
+Vous cherchez à commander les Rohirrim ? Vous n'avez pas l'air d'un grand seigneur du Rohan, #.
+Tant que votre nom ne sera pas chanté aux côtés des héros d'autrefois, vous ne commanderez pas nos guerriers, #.
+Cherchez-vous à commander les forces du Rohan ? Je n'ai entendu aucun récit sur tes grandes actions, #.
+Vous devrez prouver votre allégeance aux Hommes de Rohan si vous souhaitez commander à nos puissants guerriers.
+Mes hommes ne suivront aucun étranger à la guerre !
+Vous devrez d'abord nous prouver votre valeur avant de pouvoir commander ces vaillants guerriers.
+Seuls les vrais amis du Rohan peuvent mener mes hommes à la bataille.
+Prouvez d'abord votre vaillance au Riddermark et ensuite je pourrais vous laisser commander mes hommes !
