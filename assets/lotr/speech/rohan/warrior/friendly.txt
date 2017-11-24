@@ -1,28 +1,20 @@
-Welcome, #. What brings you to the land of Rohan?
-What business do you have in the Riddermark, #?
-Welcome to Rohan, #.
-Don't forget to feed the horses!
-The world of Men has fallen from its former glory.
-I hope to see the world of Men restored, as it was in the days of old.
-These lands are troubled, #. Orcs often break through our borders.
-Ever we must rid our lands of the Orc filth that plagues us, #.
-Welcome to Rohan. From which land do you hail?
-Hail, #! We are the riders of Rohan.
-These are the lands of our fathers, and our fathers' fathers. It is our duty to guard them.
-The horses of Rohan are the finest in all Middle-earth.
-Beware the Uruk-hai. They come here often in raiding parties, leaving only destruction in their wake.
-New life grows ever where the forefathers of Rohan sleep.
-The wolf that one hears is worse than the Orc that one fears.
-Welcome to the land of Rohan, #!
-I hope you're not forgetting to feed those horses.
-In these grim times our lands are often besieged by the servants of evil.
-The Hand and Eye of the Dark Lord ever afflict us in these fell times.
-Greetings, #! What tidings do you bring to the Riddermark?
-I wonder how those Dunlendings can be as foolish as they are unsightly... oh, were you talking to me, #?
-Have you heard the songs of Helm Hammerhand? They say he slew Dunlendings even to his last day on earth.
-Have you heard the songs of Helm Hammerhand? They say he was found dead in the snow, with the blood of Dunlendings still frozen on his hands.
-The Dunlending wildmen name us Strawheads. Well, #, I would rather have straw for hair than live every day among dirt and pig-filth.
-There are many great horses in these lands, #, and all are fit for battle.
-A strong horse needs good hay, #. So don't forget to feed them!
-Are you in league with the Sorceress of the Golden Wood? Webs of deceit were ever woven in Dwimordene.
-Seldom do we have travellers in this land. What is your purpose here?
+Bienvenue, #. Qu'est-ce qui vous amène au pays du Rohan ?
+Bienvenue au Rohan, #.
+N'oublie pas de nourrir les chevaux !
+J'espère voir le monde des hommes restauré, comme il l'était dans les temps anciens.
+Ces terres sont troublées, #. Les Orques traversent souvent nos frontières.
+Nous devons toujours débarrasser nos terres de la saleté d'Orque qui nous tourmente, #.
+Bienvenue au Rohan. De quel pays venez-vous ?
+Salut, #! Nous sommes les cavaliers du Rohan.
+Ce sont les terres de nos pères et les pères de nos pères. C'est notre devoir de les garder.
+Les chevaux du Rohan sont les meilleurs de toute la Terre du Milieu.
+Méfie-toi des Uruk-hai. Ils viennent souvent ici, ne laissant que destruction dans leur sillage.
+Le loup que l'on entend est pire que l'Orque que l'on craint.
+Bienvenue au pays du Rohan, # !
+J'espère que tu n'oublies pas de nourrir ces chevaux.
+En ces temps difficiles, nos terres sont souvent envahies par les serviteurs du mal.
+Salutations, # ! Quelles nouvelles apportez-vous au Riddermark ?
+Il y a beaucoup de grands chevaux dans ces terres, et tous sont prêts pour la bataille.
+Un cheval fort a besoin de bon foin, #. Alors n'oublie pas de les nourrir !
+Êtes-vous de mêche avec la sorcière du bois d'or ?
+Nous avons rarement des voyageurs sur ces terres. Que venez-vous?
