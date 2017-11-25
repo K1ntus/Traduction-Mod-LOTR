@@ -1,11 +1,9 @@
-Villains like you have no place among us!
-You are an enemy of our people, and a friend to Gondor!
-I will drive you out with my own hoe!
-You are no friend to us, #.
-You should flee these lands.
-I shall do no business with you!
-We do not welcome rats like you!
-Get away from me, #!
-You are a friend to Gondor! Begone!
-Guards! Guards! This one tried to steal my crops!
-Thief! Enemy! Off with you, #.
+Vous êtes un ennemi de notre peuple, et un ami de Gondor!
+Je vais vous chasser avec ma propre houe!
+Tu n'es pas un ami pour nous, #.
+Vous devriez fuir ces terres.
+Je ne vais pas faire affaire avec vous!
+Nous n'accueillons pas les rats comme vous!
+Éloigne-toi de moi, #!
+Tu es un ami de Gondor! Va-t'en!
+Gardes! Gardes! Celui-ci a essayé de voler mes récoltes!
