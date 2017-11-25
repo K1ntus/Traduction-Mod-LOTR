@@ -1,15 +1,10 @@
-Leave this jungle, #!
-You don't belong in our homelands!
-Die, grassland savage!
-You won't last long here, #!
-Weaklings like you don't last long in these forests!
-I'll feed you to the crocodiles!
-Flee, servant of evil!
-Barbarian of the plains! Begone, #!
-Your death will be quick, #!
-Run while you can, # - this will only hurt a lot!
-You are not welcome here, friend of the Lion-Men!
-The jungle beasts haven't slain you yet? Then I shall!
-The evil Eye cannot save you now, #!
-You will choke on your own blood, #!
-The Great Lion has no power here, #!
+Quitte cette jungle, #!
+Vous n'appartenez pas à nos patries!
+Meurt, sauvage des prairies!
+Je vais vous jeter aux crocodiles!
+Fuis, serviteur du mal!
+Votre mort sera rapide, #!
+Vous n'êtes pas le bienvenu ici, ami des Hommes-Lions !
+Les bêtes de la jungle ne t'ont pas encore tué? Alors je le ferai!
+Vous étoufferez dans votre propre sang, #!
+Le Grand Lion n'a aucun pouvoir ici, #!
