@@ -1,15 +1,13 @@
-I have many oddities from the jungle. What would you like?
-Some call it witchery. I call it medicine.
-Our cocoa drink invigorates even the weakest wanderer!
-What remedies can I offer you, #?
-Are you sick, #? I can heal many things!
-Who eats banana bread anyway?
-Banana bread is such a disgrace to good breads.
-Do you have any delicious mangoes for me, #?
-I'll buy lots of fruits, if you have them, #.
-My darts are the sharpest in all the jungle!
-I might have just what you are looking for, #.
-What can I get for you #, warrior of the jungle?
-I hope you have enough silver, #.
-My goods aren't pricey, but they're not cheap either, #.
-You could use some strength, #. I may have just the thing!
+J'ai beaucoup de bizarreries provenant de la jungle. Que désirez-vous ?
+Certains l'appellent sorcellerie. Je l'appelle médecine.
+Notre boisson au cacao stimule même le plus faible vagabond !
+Quels remèdes puis-je vous offrir, #?
+Es tu malade, #? Je peux guérir beaucoup de choses!
+Qui mange du pain à la banane de toute façon?
+Le pain à la banane est une telle disgrâce pour les bons pains.
+Avez-vous des délicieuses mangues pour moi, #?
+Je vais acheter beaucoup de fruits, si vous en avez, #.
+Mes fléchettes sont les plus pointues de toute la jungle!
+Que puis-je obtenir pour vous #, guerrier de la jungle?
+J'espère que vous avez assez d'argent, #.
+Mes produits ne sont pas chers, mais ils ne sont pas bon marché non plus, #.

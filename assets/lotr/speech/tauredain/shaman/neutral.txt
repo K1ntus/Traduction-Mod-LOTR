@@ -1,10 +1,9 @@
-You don't quite have my trust yet, #. Come back another day!
-I don't want your mangoes, #.
-Prove your friendship with our people, and then you may buy from me.
-You look like trouble, #.
-I doubt you have enough money for my goods.
-You don't look like one of us.
-I bet you like banana bread, #. Fool!
-You are not a friend of my people, #. Begone.
-I doubt you are any better than those thieving Lion-Men, #.
-Mind yourself, #. It is unwise to make enemies in this jungle.
+Vous n'avez pas encore toute ma confiance, #. Revenez un autre jour!
+Je ne veux pas de tes mangues, #.
+Prouve ton amitié avec notre peuple, et alors tu pourras commercer avec moi.
+Je doute que vous ayez assez d'argent pour mes marchandises.
+Tu ne ressembles pas à l'un d'entre nous.
+Je parie que vous aimez le pain à la banane, #. Imbécile!
+Vous n'êtes pas un ami de mon peuple, #.
+Je doute que tu sois meilleur que ces voleurs d'Hommes-Lions, #.
+Faites attention à vous, #. Il est imprudent de se faire des ennemis dans cette jungle.
