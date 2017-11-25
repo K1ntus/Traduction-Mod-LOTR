@@ -8,7 +8,7 @@ Si vous abattez des arbres, veuillez les replanter!
 Ces fruits sont si savoureux!
 Vous avez des pièces d'argent? J'ai quelques bons produits à vendre.
 J'espère que tu ne commets pas d'intrusion!
-N'abattez pas trop d'arbres!
+N'abattez pas trop d'arbres !
 Je vous offre le fruit le plus fin dans toute la Comté!
 Que puis-je vous obtenir, #?
 Si vous avez des pièces d'argent, alors nous pouvons échanger!

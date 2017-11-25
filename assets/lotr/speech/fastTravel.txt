@@ -18,7 +18,7 @@
 "Car rien n'est mauvais au début. Même Sauron ne l'était pas."
 "Fin? Non, le voyage ne s'arrête pas là ..."
 "La volonté du mal ruine souvent le mal."
-"Que vais-je en sortir et vais-je revenir vivant?"
+"Que vais-je en sortir et vais-je revenir vivant ?"
 "Loin des monts brumeux, des donjons profonds et des cavernes vieilles ..."
 "Je viens de sous la colline. Sous les collines et au-dessus des collines les sentiers m'ont conduit et dans les airs je suis celui qui marche invisible ..."
 "Je ne dirai pas : ne pleurez pas, car toutes les larmes ne sont pas un mal."
