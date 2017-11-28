@@ -1,14 +1,12 @@
-Flee, you Dúnadan filth!
-Begone, #!
-You are a Westron and an enemy of our people!
-Run back to Gondor, #!
-Your Stewards can't help you now!
-Get out of these lands, #.
-We do not welcome you here.
-Today, you shall fall by my hand!
-The golden army will crush you all!
-I was hoping I might have cause to draw my blade today!
-I fight for my land, and my people! You serve only weak old Men and pointy-eared princelings!
-Your Westlands will not survive the might of the East!
-I can smell your fear already, you rat.
-These lands are ours, and you are no longer welcome here!
+Fuyez, saleté de Dúnedain!
+Continuez, #!
+Vous êtes un ennemi de notre peuple!
+Retournez au Gondor, #!
+Sortez de ces terres, #.
+Nous ne sommes pas vos amis ici.
+Aujourd'hui, tu tomberas par ma main !
+J'espérais qpouvoir utiliser ma lame aujourd'hui!
+Je me bats pour ma terre et mon peuple! Vous ne servez que des faibles vieillards !
+Votre terre de l'Est ne survivra pas à la puissance de l'Est!
+Je peux déjà sentir ta peur, rat.
+Ces terres sont les nôtres, et vous n'êtes pas le bienvenu ici!
