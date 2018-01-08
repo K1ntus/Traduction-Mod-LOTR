@@ -1,28 +1,23 @@
-Welcome, #! What can I get for you today?
-If you want delicious food, you've come to the right place!
-Dalish pastries are the finest in all of Middle-earth!
-Have a look around, #. See anything you like?
-It may not be cheap, but it's certainly tasty!
-Welcome to @, home of the tastiest cakes in the whole wide world!
-You do look hungry, #.
-Got a family to feed? I'm sure they'll love something from @!
-Well, #, you look just like someone who'd enjoy one of my freshly baked pies!
-Dear oh dear, you do look hungry!
-Everything is freshly baked and made with only the finest Dalish and Dorwinian ingredients!
-Are you hungry, #?
-So, #, which cake will it be for you?
-What's that? Yes, of course I put new cakes out on display every day, #.
-Don't think you can get away with eating any of the displays!
-Don't go to that other bakery down the road, #. I've heard bad things about their cakes. They'll rot your teeth, they will.
-Who would waste their money on a blacksmith when you can come here instead?
-Buy something!
-Come back any time you like. I'm here all day, every day.
-I'm starting to get tired of holding this loaf.
-No, the stuff in the barrel isn't for sale.
-What? No, of course I'm not going to tell you how to make a Dalish pastry!
-Cram! Tasty, filling, and refreshing. Great for long journeys. Much better than that Elvish rubbish.
-Going on an adventure? Then you'll want to take some cram with you, my friend!
-Not another bleeding Dwarf! We've had quite enough - oh, it's you, #. Please forgive me.
-I'm sure your children would love to come here!
-Please don't walk on the displays.
-Go on, buy a cake. Who knows, perhaps it might even take your mind off the decline of the West for a while.
+Bienvenue, #! Que puis-je vous proposez aujourd'hui?
+Si vous voulez de la nourriture délicieuse, vous êtes au bon endroit!
+Les pâtisseries de Dalish sont les meilleures de toute la Terre du Milieu!
+Regardez autour de vous, #. Vous voyez quelque chose que vous aimez?
+Ce n'est peut-être pas bon marché, mais c'est certainement bon!
+Bienvenue à @, la maison des gâteaux les plus savoureux dans le monde entier!
+Vous avez l'air affamé, #.
+Vous avez une famille à nourrir? Je suis sûr qu'ils vont adorer quelque chose de @!
+Eh bien, #, vous ressemblez à quelqu'un qui aimerait une de mes tartes fraîchement cuites au four!
+Vous avez l'air affamé cher #
+Tout est fraîchement cuit et fait avec les meilleurs ingrédients Dalish et Dorwiniens!
+Avez-vous faim, #?
+Alors, #, quel gâteau sera-t-il pour vous?
+Qu'est-ce que c'est? Oui, bien sûr, je mets de nouveaux gâteaux sur l'affichage tous les jours, #.
+Ne pensez pas que vous pouvez vous en sortir en mangeant l'un des affichages!
+Vous ne devriez pas aller à cette autre boulangerie sur la route, #. J'ai entendu de mauvaises choses à propos de leurs gâteaux. Ils vont vous pourrir les dents, je vous assure!
+Je ne comprends pas comment des gens peuvent gaspiller leur argent chez un forgeron au lieu de venir ici..
+Acheter quelque chose!
+Revenez quand vous voulez. Je suis ici toute la journée, tous les jours.
+Je commence à en avoir marre de tenir ce pain.
+Non, les affaires dans le tonneau ne sont pas à vendre.
+Navrée, mais je ne peux pas vous dire comment faire une pâtisserie Dalish!
+Fourrer! Savoureux, copieux et rafraîchissant. Idéal pour les longs trajets. Beaucoup mieux que les horreurs Elfique..

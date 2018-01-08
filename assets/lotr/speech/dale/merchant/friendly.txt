@@ -1,10 +1,10 @@
-Greetings, #! I come from the Kingdom of Dale.
-The Kingdom of Dale sends its best regards, and its finest goods!
-What is it that you would like to buy today, #?
-I have some very fine goods indeed.
-Dalish craftwork is unlike any other in Middle-earth.
-Cram, #. Some good cram is what you need.
-Come, #, browse my wares.
-You surely don't need all that silver.
-I'm sure I have something that would interest you.
-You look like a wealthy person, #! Come and see what Dale can offer you.
+Salutations, #! Je viens du Royaume de Dale.
+Le Royaume de Dale envoie ses meilleures salutations, et ses meilleurs produits!
+Qu'est-ce que vous aimeriez acheter aujourd'hui, #?
+J'ai vraiment de très beaux produits.
+L'artisanat de Dalish ne ressemble à aucun autre en Terre du Milieu.
+Cram, #. Un bon cram est ce dont vous avez besoin.
+Venez, #, parcourez mes marchandises.
+Vous n'avez sûrement pas besoin de tout cet argent.
+Je suis sûr que j'ai quelque chose qui va vous intéresser.
+Vous ressemblez à une personne riche, #! Venez voir ce que Dale peut vous offrir.

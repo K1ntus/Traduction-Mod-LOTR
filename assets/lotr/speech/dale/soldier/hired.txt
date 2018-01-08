@@ -1,10 +1,10 @@
-You command, I follow!
-Do you require my service, #?
-Where shall we go?
-Let us kill some bandit scum!
-No Orc shall stand in our way!
-Can we stop for some ale?
-I will do as you command.
-Nothing shall stand against us!
-Let our foes meet with our blades!
-As you command.
+Tu commandes, je te suis!
+Avez-vous besoin de mon service, #?
+Où devrions-nous aller?
+Laissez-nous tuer un peu de bandit!
+Aucun Orc ne doit nous barrer la route!
+Pouvons-nous nous arrêter pour un peu de bière?
+Je ferais comme vous commandez.
+Rien ne doit nous résister!
+Laissez nos ennemis se rencontrer avec nos lames!
+Comme vous le décidrez.

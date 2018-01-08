@@ -7,7 +7,7 @@ Que puis-je faire pour vous, # ?
 Ho! Ho! Ho! Je vais à la bouteille. Pour guérir mon coeur et noyer mon malheur !
 Affamé ? Assoiffé ? Comment puis-je faire pour vous aider aujourd'hui, # ?
 Vous avez l'air d'avoir besoin d'une bonne tasse d'hydromel !
-Ici, à @, vous vous régalerez comme des rois.
+Ici, au @, vous vous régalerez comme des rois.
 C'est une belle journée pour boire un verre !
 Entrez et faites comme chez vous, voyageur.
 Bonne journée, #.
