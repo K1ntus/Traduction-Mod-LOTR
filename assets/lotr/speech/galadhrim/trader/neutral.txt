@@ -1,12 +1,11 @@
-If you wish to trade, you must enact some more good in the world.
-I only offer the products of the Elves to those we can trust.
-If you seek to trade, #, I suggest you prove your worth.
-Are you Elf-friend, #?
-The sea calls me home.
-I shall not tarry long in this land.
-Prove your allegiance to the Elves of the Golden Wood, and then I may trade with you.
-I cannot be certain that the Enemy has no hold over you.
-My mind tells me to trade with you, but my heart does not yet trust you, #.
-You are not yet a friend of the Elves of Lothlórien.
-Do more good in this world and then I shall trade with you.
-I do not trust any stranger that I meet. You need to prove yourself to my kin first.
+Si vous souhaitez faire du commerce, vous devrez apportez un peu plus de bien autour de vous d'abord.
+J'offre seulement les produits Elfiques à ceux en qui nous pouvons avoir confiance.
+Si vous cherchez à commercer, #, je vous suggère de prouver votre valeur.
+Êtes-vous un ami des Elfes, #?
+Je ne resterai pas longtemps dans ce pays.
+Prouve ton allégeance aux Elfes du Bois Doré, et ensuite seulement, je pourrais commercer avec toi.
+Je ne peux pas être certain que l'Ennemi n'a aucun emprise sur vous.
+Mon esprit me dit de commercer avec vous, mais mon cœur ne vous fait pas encore confiance, #.
+Vous n'êtes pas encore un ami des Elfes de Lothlórien.
+Faites plus de bien dans ce monde et ensuite je commercerai avec vous.
+Je ne fais confiance à aucun étranger que je rencontre. Vous devez d'abord prouver votre valeur.

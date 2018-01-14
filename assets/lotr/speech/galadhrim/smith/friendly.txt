@@ -1,15 +1,15 @@
-Greetings, #. What can I forge for you?
-The smith-skill of my kin is amongst the greatest in these lands!
-I have many mighty weapons that I can offer you!
-No Orc-arrow may pierce the armour that I forge!
-What do you need, mellon-nin?
-No spawn of evil may stand against our bows and blades!
-What can I get you, #? 
-These are dark times, #. The Evil has returned. We must defend our borders. It is my duty to provide my friends with weapons.
-No Orc-blade can match the sharpness and might of my blades!
-These times are dangerous. Many Orcs have been sighted on our borders... they must be driven away or else the Shadow shall win.
-The foes of our kin shall tremble beneath the mighty blades that I forge!
-Since the darkening of Khazad-dum, we have not received much new metal. We always require more.
-The Evil has returned to Dol Guldur, and to Mordor in the east. My kin shall soon go to battle. I must prepare the weapons and armour.
-I am always in need of more metals for my smith-work. I will reward you if you bring me some.
-I have learnt much of the skills of forging and smithing in my thousands of years of walking in this world.
+Salutations, #. Que puis-je forger pour vous?
+La compétence de ma famille est parmi les plus grandes de ces terres!
+J'ai beaucoup d'armes puissantes que je puis-je vous proposer?
+Aucune flèche orque ne peut percer les armures que je forge!
+De quoi avez-vous besoin, mon ami ?
+Aucune créature du mal ne peut résister à nos arcs et à nos lames!
+En quoi puis-je vous aider, #?
+Ce sont des temps sombres qui nous entourent, #. Le mal est revenu. Nous devons défendre nos frontières. Il est de mon devoir de fournir des armes à mes amis.
+Aucune lame Orc ne peut correspondre à la netteté et la puissance de mes lames!
+Ces temps sont dangereux. Beaucoup d'Orques ont été aperçus sur nos frontières ... ils doivent être chassés sinon l'Ombre gagnera.
+Les ennemis de notre famille trembleront sous les puissantes lames que je forge!
+Depuis l'assombrissement de Khazad-dum, nous n'avons pas reçu beaucoup de nouveaux métaux. Nous en avons toujours besoin de plus.
+Le mal est revenu à Dol Guldur et au Mordor à l'est. Mes proches vont bientôt se battre. Je dois préparer les armes et les armures.
+J'ai toujours besoin de plus de métaux pour mon travail de forgeron. Je vais vous récompenser si vous m'en apportez.
+J'ai appris beaucoup de techniques de forge et de création depuis mes milliers d'années d'existence dans ce monde.

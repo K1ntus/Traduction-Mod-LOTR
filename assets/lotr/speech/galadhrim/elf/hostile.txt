@@ -1,20 +1,20 @@
-No evil may set foot in the Golden Wood!
-You may not enter Lórien.
-#, you may not set foot in Lothlórien!
-You breathe so loudly I could have shot you in the dark.
-You are unwelcome in our lands.
-Your presence is unwelcome here.
-You are no Elf-friend, #!
-The Enemy has no hold over Lórien!
-We suffer no evil in Lothlórien!
-You may not bring evil here, #!
-Your darkness shall not poison our sacred woods!
-To Udûn with you!
-Go and kiss an Orc!
-Death to the foes of the Elves!
-Who brings to us this token of doom?
-Begone, servant of evil!
-Go back to the shadow whence you came!
-We shall not allow evil to enter our realm. Leave now or face our wrath!
-You bring great evil here, #. You can go no further.
-Leave, #, or face the might of our arrows!
+Aucun partisant du mal ne peut mettre les pieds dans le bois doré!
+Vous ne pouvez pas entrer sur les terres de Lórien.
+#, vous ne pouvez pas mettre les pieds sur les terres de Lothlórien!
+vous respirez si fort que j'aurais pu vous tirer dessus sans même ouvrir les yeux.
+Vous êtes importun et n'avez rien à faire dans nos terres.
+Votre présence n'est pas la bienvenue ici.
+Vous n'êtes pas un ami Elfe, #!
+L'ennemi n'a aucun emprise sur Lórien!
+Nous ne souffrons d'aucun mal en Lothlórien!
+Vous ne pouvez pas apporter le mal ici, #!
+Vos idées sombres et votre esprit ténébreux ne doivent pas empoisonner nos bois sacrés!
+Pour Udûn avec vous!
+Retourne voir tes amis Orcs morts avant que je ne t'envoie les rejoindre en enfer !
+Mort aux ennemis des Elfes!
+Qui nous apporte cette marque de malheur?
+Va-t'en, serviteur du mal!
+Retourne à l'ombre d'où tu es venu!
+Nous ne permettrons pas au mal d'entrer dans notre royaume. Pars maintenant ou fais face à notre colère!
+Vous apportez un grand mal ici, #. Vous ne pouvez pas aller plus loin.
+Fuis cet endroit, #, ou affronte la puissance de nos flèches!
