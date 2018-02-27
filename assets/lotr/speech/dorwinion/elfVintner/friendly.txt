@@ -1,8 +1,8 @@
-Ah, #! Have you come to buy some wine?
-The Elven-wine of Dorwinion is sweeter than any other.
-I must soon send these barrels off to the Woodland Realm.
-We Elves brew the best wine in Dorwinion.
-Have you come to buy wine from me, #? A good decision indeed!
-Which sort do you prefer, #? Red or white? Or perhaps some grape juice?
-I brew so much wine that I've taken to drinking the excess myself.
-We vintner-elves are renowned for our brewing. Go on, #, try some.
+Ah, #! Es-tu venu acheter du vin?
+Le vin elfique de Dorwinion est plus doux que tout autre.
+Je dois bientôt envoyer ces tonneaux à Woodland Realm.
+Nous, les Elfes, préparons le meilleur vin de Dorwinion.
+Êtes-vous venu pour acheter du vin fait par moi, #? Une bonne décision en effet!
+Quel genre préférez-vous, #? Rouge ou blanc? Ou peut-être du jus de raisin?
+Je brasse tellement de vin que j'ai pris pour boire l'excès moi-même.
+Nous les vignerons-elfes sommes renommés pour notre brassage. Allez, #, essayez-en.

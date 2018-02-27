@@ -1,12 +1,12 @@
-There's no room for villains like you in Dorwinion!
-Get out of Dorwinion before we drive you out with our pikes!
-You are no friend of Dorwinion, #.
-You should not have come here.
-You will go no further, #!
-You must leave Dorwinion now!
-Get away, #! No wine for you!
-You have the manner of a common rogue, and I shall deal with you like one!
-Run along now, scoundrel!
-I will spill your blood like bitter wine!
-You would do well to fear us, #!
-Don't tempt me, scum!
+Il n'y a pas de place pour des méchants comme vous à Dorwinion!
+Sors de Dorwinion avant de te chasser avec nos piques!
+Vous n'êtes pas un ami de Dorwinion, #.
+Tu n'aurais pas dû venir ici.
+Vous n'irez pas plus loin, #!
+Vous devez quitter Dorwinion maintenant!
+Va-t-en, #! Pas de vin pour toi!
+Vous avez la manière d'un coquin commun, et je traiterai avec vous comme tel!
+Cours maintenant, canaille!
+Je répandrai ton sang comme du vin amer!
+Tu ferais bien de nous craindre, #!
+Ne me tente pas, écume!

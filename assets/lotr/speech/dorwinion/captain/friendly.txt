@@ -1,8 +1,8 @@
-Welcome, #. Have you come to hire my guards?
-The Vintner Guard make excellent personal guards too, #.
-My guards are not cheap, #, but they are loyal.
-Ah, #! I have heard tales of your deeds. You seem like an honest friend of Dorwinion.
-Elves may be powerful, #, but they are fickle too. You have made the right choice to come to me.
-For just a small sum of money, these guards might be yours.
-I can't wait to get home and drink some wine.
-My guards are well-trained, #.
+Bienvenue, #. Es-tu venu pour engager mes gardes?
+The Vintner Guard fait aussi d'excellents gardes personnels, #.
+Mes gardes ne sont pas bon marché, #, mais ils sont loyaux.
+Ah, #! J'ai entendu des histoires de tes actes. Vous semblez être un ami honnête de Dorwinion.
+Les elfes peuvent être puissants, #, mais ils sont inconstants aussi. Tu as fait le bon choix de venir à moi.
+Pour une petite somme d'argent, ces gardes pourraient être les vôtres.
+Je ne peux pas attendre pour rentrer à la maison et boire du vin.
+Mes gardes sont bien formés, #.

@@ -1,7 +1,7 @@
-The guards of Dorwinion do not serve just anyone, #.
-These guards are hired by vintner-elves and noblemen. They do not serve lowborn peasants like you!
-You may be our friend, #, but you are no nobleman.
-What are you doing here? Go back to picking grapes.
-You are not worthy of the Vintner Guard.
-These men are well-trained, loyal, and strong. They serve only the highborn of Dorwinion. Not fools like you.
-What do you think we are, #, a band of mercenaries? Away with you.
+Les gardes de Dorwinion ne servent pas n'importe qui, #.
+Ces gardes sont engagés par des vignerons-elfes et des nobles. Ils ne servent pas les paysans à faible revenu comme vous!
+Vous pouvez être notre ami, #, mais vous n'êtes pas un noble.
+Que fais-tu ici? Retourner à la cueillette des raisins.
+Vous n'êtes pas digne de la garde du viticulteur.
+Ces hommes sont bien formés, loyaux et forts. Ils ne servent que les grands-parents de Dorwinion. Pas des imbéciles comme toi.
+Que penses-tu que nous sommes, #, une bande de mercenaires? Loin avec vous.

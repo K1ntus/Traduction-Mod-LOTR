@@ -1,11 +1,12 @@
-Come quickly, #! I must be moving along soon.
-Hurry, #, or you will miss out on the sweetest wine you ever tasted!
-The trade-goods of Dorwinion cannot linger here forever.
-We must be moving on soon.
-This is your last chance to taste some fine wine!
-The wine of Dorwinion is almost spent! Come quickly, #.
-My time here is ending. Soon I must move on to trade in other lands.
-We must return to Dorwinion soon. If you wish to trade, come at once!
-I must soon be on my way.
-We cannot stay here forever, #. If you seek the fruits of Dorwinion, come at once.
-I will soon be leaving to seek riches in other countries. Come quickly!
+
+Venez vite, #! Je dois aller de l'avant bientôt.
+Dépêchez-vous, #, ou vous manquerez le plus doux vin que vous avez jamais goûté!
+Les biens commerciaux de Dorwinion ne peuvent pas rester ici pour toujours.
+Nous devons avancer bientôt.
+C'est votre dernière chance de goûter du bon vin!
+Le vin de Dorwinion est presque épuisé! Venez vite, #.
+Mon temps ici se termine. Je dois bientôt passer au commerce dans d'autres pays.
+Nous devons bientôt retourner à Dorwinion. Si vous souhaitez faire du commerce, venez tout de suite!
+Je dois bientôt être sur mon chemin.
+Nous ne pouvons pas rester ici pour toujours, #. Si vous cherchez les fruits de Dorwinion, venez tout de suite.
+Je vais bientôt partir pour chercher la richesse dans d'autres pays. Venez vite!

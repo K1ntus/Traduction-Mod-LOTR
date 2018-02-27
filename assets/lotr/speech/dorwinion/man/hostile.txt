@@ -1,9 +1,10 @@
-If I had all the wine in the world, I would not share a single drop with you.
-You are an enemy of Dorwinion!
-Go away before I call for the Vintner Guard.
-Get out of our lands!
-You are a villain, #.
-I shall have no dealings with you.
-Begone, #!
-The Elves would not tolerate your presence here, and neither shall I!
-Do not speak to me, you baseborn rat!
+
+Si j'avais tout le vin dans le monde, je ne partagerais pas une seule goutte avec vous.
+Vous êtes un ennemi de Dorwinion!
+Va-t-en avant que j'appelle à la Garde du Vigneron.
+Sortez de nos terres!
+Vous êtes un méchant, #.
+Je n'aurai pas de relations avec vous.
+Continuez, #!
+Les Elfes ne toléreraient pas votre présence ici, et moi non plus!
+Ne me parle pas, rat mort!

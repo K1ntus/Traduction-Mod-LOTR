@@ -1,19 +1,19 @@
-Greetings, #!
-Welcome, #! What can I get for you today?
-Welcome to @, #!
-Welcome to @.
-This is @, the finest tavern in all of Dunland!
-No Strawheads allowed in here!
-Food? Drink? A song? What is it you want, #?
-I'll give you a good meal or a drink for just a few silver coins.
-Want anything to eat or drink, #? I just need some silver coins.
-And here's #! What can I do for you today?
-You looking for a drink?
-This tavern may be filthy, but the grub's second to none!
-We Dunlendings like our drink, #.
-Got any silver coins?
-Our ale is the finest ale in all the lands!
-Welcome, #! Enjoy your stay! 
-Thirsty? Our ale will satisfy all your needs! Ha! Ha!
-For a few silver coins you can get your hands on the finest drink in Middle-earth!
-Welcome stranger! You come to the best tavern with the finest ale in all of Dunland!
+Salutations, #!
+Bienvenue, #! Que puis-je obtenir pour vous aujourd'hui?
+Bienvenue à @, #!
+Bienvenue à @.
+C'est @, la plus belle taverne de Dunland!
+Pas de tetes de paille permis ici!
+Aliments? Boisson? Une chanson? Qu'est-ce que vous voulez, #?
+Je vais vous donner un bon repas ou un verre pour quelques pièces d'argent.
+Vous voulez quelque chose à manger ou à boire, #? J'ai juste besoin de pièces d'argent.
+Et voici #! Que puis-je faire pour vous aujourd'hui?
+Vous cherchez un verre?
+Cette taverne peut être sale, mais le vin est à nulle autre pareille!
+Nous Dunlendings comme notre boisson, #.
+Vous avez des pièces d'argent?
+Notre bière est la meilleure bière de tous les pays!
+Bienvenue, #! Profitez de votre séjour!
+Assoiffé? Notre bière satisfera tous vos besoins! Ha! Ha!
+Pour quelques pièces d'argent, vous pouvez mettre la main sur la meilleure boisson de la Terre du Milieu!
+Bienvenue étranger! Vous venez à la meilleure taverne avec la meilleure bière de Dunland!

@@ -1,6 +1,6 @@
-You are noble indeed, #. The Order of Bladorthin would be willing to serve you.
-You have earned my respect, #. What do you want?
-The Order of Bladorthin do not bow and scrape to weak Men. But you are no weak Man, #.
-My warriors are the finest Elves in all Middle-earth.
-I will grant you command of my warriors, #. For a price, of course.
-You have the grace of an Elf-friend. What is it you need, #?
+Vous êtes noble en effet, #. L'Ordre de Bladorthin serait prêt à vous servir.
+Vous avez gagné mon respect, #. Qu'est-ce que tu veux?
+L'Ordre de Bladorthin ne s'incline pas et ne gratte pas aux hommes faibles. Mais vous n'êtes pas un homme faible, #.
+Mes guerriers sont les meilleurs Elfes de toute la Terre du Milieu.
+Je vais vous accorder le commandement de mes guerriers, #. Pour un prix, bien sûr.
+Vous avez la grâce d'un ami elfe. De quoi avez-vous besoin, #?
