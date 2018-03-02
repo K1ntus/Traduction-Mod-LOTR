@@ -1,23 +1,23 @@
-Long have we guarded these lands, #.
-We Rangers have watched over these lands for generations lost to memory.
-What brings you to this wilderness, #?
-May your journey be swift and your cloak warm, #.
-By nightfall this land will be crawling with Orcs.
-Be on your guard, #. There are many enemies in these parts.
-Good day, #. From which land do you hail?
-Keep a safe camp at night, and stay out of the shadows.
-It is not for nothing that we watch these lands, #. Many foul beasts nest here.
-We Rangers remember the ancient lore of the West. We have ways to walk unseen.
-These lands are my domain, #, and I do all in my power to safeguard them.
-Beware the wretched Morgul-scum that crawls out at night, #.
-The wolf that one hears is worse than the Orc that one fears.
-Were it not for us, these lands would have fallen to the darkness long ago.
-Many of the folk that dwell here consider us bandits and outcasts. They do not know our true duties.
-My kin has long guarded these lands from the dangers that lie to the North.
-Be wary, #. Many new dangers have arisen in these dark days.
-As long as we watch over these lands, travellers such as you will be able to journey in peace, #.
-Lonely folk are we, Rangers of the wild, hunters - but hunters ever of the servants of the Enemy.
-The servants of the Enemy are found in many places, not in Mordor only.
-Beware of the ancient wights and shades that roam this land, #. It is said they can take over your body.
-In time of need, we will ride to the aid of Isildur's heir.
-Our homes, such as we have, are here in the North.
+Nous avons longtemps gardé ces terres, #.
+Nous, les Rangers, avons veillé sur ces terres pendant des générations perdues de vue.
+Qu'est-ce qui vous amène à ce désert, #?
+Que votre voyage soit rapide et votre manteau chaud, #.
+À la tombée de la nuit, cette terre grouillera d'Orques.
+Soyez sur vos gardes, #. Il y a beaucoup d'ennemis dans ces parties.
+Bonne journée, #. De quel pays parlez-vous?
+Gardez un camp sécurisé la nuit et restez à l'écart des ombres.
+Ce n'est pas pour rien que nous regardons ces terres, #. Beaucoup de bêtes immondes nichent ici.
+Nous, les Rangers, nous souvenons des traditions anciennes de l'Occident. Nous avons des moyens de marcher sans être vu.
+Ces terres sont mon domaine, et je fais tout ce qui est en mon pouvoir pour les sauvegarder.
+Méfie-toi de la misérable saloperie de Morgul qui rampe la nuit, #.
+Le loup que l'on entend est pire que l'Orque que l'on craint.
+Si ce n'était pas pour nous, ces terres seraient tombées dans les ténèbres depuis longtemps.
+Beaucoup de gens qui vivent ici nous considèrent comme des bandits et des exclus. Ils ne connaissent pas nos véritables devoirs.
+Ma famille a longtemps gardé ces terres contre les dangers qui menacent le Nord.
+Se méfier, #. Beaucoup de nouveaux dangers sont apparus dans ces jours sombres.
+Tant que nous surveillons ces terres, les voyageurs tels que vous serez en mesure de voyager en paix, #.
+Nous sommes des Rôdeurs sauvages, des chasseurs, mais des chasseurs des serviteurs de l'Ennemi.
+Les serviteurs de l'Ennemi se trouvent dans de nombreux endroits, pas seulement au Mordor.
+Méfiez-vous des anciens wights et des ombres qui parcourent cette terre, #. On dit qu'ils peuvent prendre le contrôle de votre corps.
+En cas de besoin, nous irons au secours de l'héritier d'Isildur.
+Nos maisons, comme celles que nous avons, sont ici dans le Nord.

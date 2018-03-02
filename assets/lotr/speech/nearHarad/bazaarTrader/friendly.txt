@@ -1,10 +1,10 @@
-Greetings, #! I hope that you will buy something from my stall.
-What is it that you wish to buy? For I sell treasures from all over the world!
-We traders of Harad are well travelled, and for all that, we have many goods to sell you.
-I am prepared to barter silver with you, #. What is it that you need?
-Welcome to the bazaar, #! What can I do for you today?
-Fantastic treasures from the ends of the earth, for just a few silver coins!
-Welcome, #! Welcome! I offer you many fine goods from these lands!
-For a few silver coins, I can sell you some fantastic treasures!
-Welcome to my stall! What can I get you?
-I offer you many treasures from many lands!
+Salutations, #! J'espère que vous achèterez quelque chose de mon stand.
+Qu'est-ce que vous souhaitez acheter? Car je vends des trésors de partout dans le monde!
+Nous les commerçants de Harad sont bien voyagés, et pour tout cela, nous avons beaucoup de biens à vous vendre.
+Je suis prêt à échanger de l'argent avec vous, #. De quoi avez-vous besoin?
+Bienvenue au bazar, #! Que puis-je faire pour vous aujourd'hui?
+Trésors fantastiques des extrémités de la terre, pour quelques pièces d'argent!
+Bienvenue, #! Bienvenue! Je vous offre beaucoup de biens de ces terres!
+Pour quelques pièces d'argent, je peux vous vendre des trésors fantastiques!
+Bienvenue dans mon stand! Que puis-je vous obtenir?
+Je t'offre beaucoup de trésors de plusieurs pays!

@@ -1,41 +1,41 @@
-What brings you to this wilderness, #?
-May your journey be swift and your cloak warm, #.
-By nightfall this land will be crawling with Orcs.
-Be on your guard, #. There are many enemies in these parts.
-Good day, #. From which land do you hail?
-Keep a safe camp at night, and stay out of the shadows.
-My kin has long guarded these lands from the dangers that lie to the North.
-Be wary, #. Many new dangers have arisen in these dark days.
-Do not forget us, #.
-Once, the northern kingdoms of Men were glorious and magnificent. But now we are all that remain.
-Not all those who wander are lost.
-The old that is strong does not wither; deep roots are not reached by the frost.
-From the ashes a fire shall be woken.
-Renewed shall be blade that was broken; the crownless again shall be king.
-Evil is at work in these lands.
-We are the people of Westernesse, as such who remain.
-Orcs in their numbers are coming down from the mountains, #. We must remain wary.
-We have crossed many mountains and many rivers. Hopefully we can live here in peace, for a time.
-Our homes, such as we have, are here in the North.
-Here the heirs of Valandil have ever dwelt in long line unbroken from father unto son for many generations.
-Our days have darkened, and we have dwindled; but always the Sword has passed to a new keeper.
-Lonely folk are we, Rangers of the wild, hunters - but hunters ever of the servants of the Enemy.
-The servants of the Enemy are found in many places, not in Mordor only.
-Beware of the ancient wights and shades that roam this land, #. It is said they can take over your body.
-In time of need, we will ride to the aid of Isildur's heir.
-Winter is coming soon. But we are ever the watchers in the North.
-How did you come to our secret lands?
-I pray that you are a friend to the Dúnedain.
-Our lands are kept secret from the outside world. I can only trust that the Rangers allowed you to pass.
-We are a scattered folk, #, and our dwellings are hidden.
-None but friends of the Dúnedain and the Eldar may pass into these lands.
-Our dwellings here are known to none outside our kin, save the Elves.
-We are a secret people. It is how we have survived.
-We are the folk of the West, of Númenor of old and the lost realm of Arnor.
-There are few in the outside world who remember our names, #. The memory of Arnor is all but forgotten.
-My forefathers were the Kings of Westernesse, in its glory! Of Númenor! But now the world is darkened, and we struggle here in this wilderness.
-Westernesse is drowned beneath the sundering seas, but while we remain, #, the memory of our people endures.
-We Dúnedain of the North are a wary people. Be sure you do not cause any trouble.
-Were it not for my people, these lone-lands would be crawling with Orcs, or worse.
-If you would travel East, beware the mountains, #. Dark and evil things lurk within.
-Hereabouts lie the last refuges of our people.
+Qu'est-ce qui vous amène à ce désert, #?
+Que votre voyage soit rapide et votre manteau chaud, #.
+À la tombée de la nuit, cette terre grouillera d'Orques.
+Soyez sur vos gardes, #. Il y a beaucoup d'ennemis dans ces parties.
+Bonne journée, #. De quel pays parlez-vous?
+Gardez un camp sécurisé la nuit et restez à l'écart des ombres.
+Ma famille a longtemps gardé ces terres contre les dangers qui menacent le Nord.
+Se méfier, #. Beaucoup de nouveaux dangers sont apparus dans ces jours sombres.
+Ne nous oublie pas, #.
+Une fois, les royaumes du nord des hommes étaient glorieux et magnifiques. Mais maintenant nous sommes tout ce qui reste.
+Tous ceux qui errent ne sont pas perdus.
+Le vieux qui est fort ne se flétrit pas; les racines profondes ne sont pas atteintes par le gel.
+De la cendre, un feu sera réveillé.
+Renouvelé sera la lame qui a été brisée; le sans-couronne sera à nouveau roi.
+Le mal est au travail dans ces terres.
+Nous sommes les gens de Westernesse, en tant que tels qui restent.
+Les Orques dans leur nombre descendent des montagnes, #. Nous devons rester prudents.
+Nous avons traversé de nombreuses montagnes et de nombreuses rivières. J'espère que nous pourrons vivre ici en paix, pour un temps.
+Nos maisons, comme celles que nous avons, sont ici dans le Nord.
+Ici, les héritiers de Valandil ont toujours habité sans discontinuer de père en fils depuis de nombreuses générations.
+Nos jours se sont assombris et nous avons diminué; mais toujours l'épée est passée à un nouveau gardien.
+Nous sommes des Rôdeurs sauvages, des chasseurs, mais des chasseurs des serviteurs de l'Ennemi.
+Les serviteurs de l'Ennemi se trouvent dans de nombreux endroits, pas seulement au Mordor.
+Méfiez-vous des anciens wights et des ombres qui parcourent cette terre, #. On dit qu'ils peuvent prendre le contrôle de votre corps.
+En cas de besoin, nous irons au secours de l'héritier d'Isildur.
+L'hiver arrive bientôt. Mais nous sommes toujours les observateurs dans le Nord.
+Comment es-tu venu sur nos terres secrètes?
+Je prie pour que tu sois un ami des Dúnedain.
+Nos terres sont tenues secrètes du monde extérieur. Je peux seulement croire que les Rangers vous ont permis de passer.
+Nous sommes un peuple dispersé, #, et nos habitations sont cachées.
+Seuls les amis des Dúnedain et des Eldar peuvent passer dans ces terres.
+Nos demeures ici ne sont connues de personne en dehors de notre famille, sauf les Elfes.
+Nous sommes un peuple secret. C'est comme ça que nous avons survécu.
+Nous sommes le peuple de l'Ouest, de Númenor d'autrefois et le royaume perdu d'Arnor.
+Il y a peu dans le monde extérieur qui se souvient de nos noms, #. Le souvenir d'Arnor est presque oublié.
+Mes ancêtres étaient les rois de Westernesse, dans sa gloire! De Númenor! Mais maintenant le monde est obscurci, et nous luttons ici dans ce désert.
+Westernesse est noyée sous la mer, mais pendant que nous restons, la mémoire de notre peuple perdure.
+Nous Dúnedain du Nord sont un peuple prudent. Assurez-vous de ne causer aucun problème.
+Si ce n'était pas pour mon peuple, ces terres solitaires grouillaient d'Orques, ou pire.
+Si vous voyagez à l'est, méfiez-vous des montagnes, #. Les choses sombres et maléfiques se cachent à l'intérieur.
+Ici se trouvent les derniers refuges de notre peuple.

@@ -1,10 +1,10 @@
-I cannot allow a stranger to hire my warriors, #.
-Who are you? Are you a friend of Harad, or an ally of Gondor?
-Until you have proven your allegiance with us, we will not fight for you, #.
-Do you fight with us, or against us?
-Who is your master, #?
-You must perform great deeds in the name of the Haradrim if you wish to command our warriors.
-You will need to do more good for our people if you wish to command my mighty warriors, #.
-The Haradrim do not simply follow any stranger into battle. You will have to prove your worth!
-Whom do you serve, #? The Great Lord of Mordor, or the foul Dúnedain?
-You will have to prove your allegiance to my people, #.
+Je ne peux pas permettre à un étranger d'engager mes guerriers, #.
+Qui es-tu? Êtes-vous un ami de Harad, ou un allié de Gondor?
+Jusqu'à ce que vous ayez prouvé votre allégeance avec nous, nous ne nous battrons pas pour vous, #.
+Est-ce que tu te bats avec nous, ou contre nous?
+Qui est ton maître, #?
+Vous devez accomplir de grandes actions au nom du Haradrim si vous souhaitez commander nos guerriers.
+Vous devrez faire plus de bien pour notre peuple si vous souhaitez commander mes puissants guerriers, #.
+Les Haradrim ne suivent pas simplement un étranger dans la bataille. Vous devrez prouver votre valeur!
+Qui servez-vous, #? Le Grand Seigneur du Mordor, ou la faute de Dúnedain?
+Vous devrez prouver votre allégeance à mon peuple, #.

@@ -1,23 +1,23 @@
-Want some equipment? Just bring me a few silver coins.
-Welcome, #! What can I forge for you?
-I never have enough materials to make the arms we need.
-I see you are a friend of the North, #.
-Might you be seeking some fine arms, #?
-Might you be needing some new armour? It's dangerous out in the wild.
-I'm still looking for an apprentice...
-I forge the best weaponry in all the North!
-Would that we still remembered the craft of our forefathers, #. I would make you fine armour, and blades.
-In Arnor of old, the smiths made beautiful helms and gilded chestplates. I prefer something a little more functional.
-Good day, #! Do you require some fine equipment?
-Welcome to the North, #! What can I get you?
-These are dark days... materials are scarce and expensive.
-What do you need, #?
-What brings you to this wilderness, #?
-Be on your guard, #. There are many enemies in these parts.
-The old that is strong does not wither. Deep roots are not reached by the frost.
-From the ashes, a fire shall be woken.
-Renewed shall be blade that was broken. The crownless again shall be king!
-The old craft of Arnor is lost to time, but I can still forge a good helmet.
-There are none today who can work metal like the smiths of old. Not even myself.
-I cannot forge armour in the likeness of the old kingdom, but I can make a suit to keep you safe, #.
-The realm of Arnor is lost, and with it, the smith-craft of Westernesse too.
+Voulez-vous du matériel? Apporte-moi juste quelques pièces d'argent.
+Bienvenue, #! Que puis-je forger pour vous?
+Je n'ai jamais assez de matériel pour fabriquer les armes dont nous avons besoin.
+Je vois que vous êtes un ami du Nord, #.
+Pourriez-vous chercher quelques bras fins, #?
+Auriez-vous besoin d'une nouvelle armure? C'est dangereux dehors dans la nature.
+Je suis toujours à la recherche d'un apprenti ...
+Je forge les meilleurs armements dans tout le Nord!
+Est-ce que nous nous souvenions encore du métier de nos ancêtres, #. Je te ferais une belle armure et des lames.
+En Arnor d'autrefois, les forgerons ont fait de beaux heaumes et des plastrons dorés. Je préfère quelque chose d'un peu plus fonctionnel.
+Bonne journée, #! Avez-vous besoin d'un équipement de qualité?
+Bienvenue dans le Nord, #! Que puis-je vous obtenir?
+Ce sont des jours sombres ... les matériaux sont rares et chers.
+De quoi avez-vous besoin, #?
+Qu'est-ce qui vous amène à ce désert, #?
+Soyez sur vos gardes, #. Il y a beaucoup d'ennemis dans ces parties.
+Le vieux qui est fort ne se flétrit pas. Les racines profondes ne sont pas atteintes par le gel.
+De la cendre, un feu doit être réveillé.
+Renouvelé sera la lame qui a été brisée. Le sans-couronne sera à nouveau roi!
+Le vieux métier d'Arnor est perdu au fil du temps, mais je peux encore forger un bon casque.
+Il n'y en a pas aujourd'hui qui puissent travailler le métal comme les forgerons d'autrefois. Pas même moi.
+Je ne peux pas forger une armure à l'image de l'ancien royaume, mais je peux faire un costume pour vous garder en sécurité, #.
+Le royaume d'Arnor est perdu, et avec lui, le métier de forgeron de Westernesse aussi.

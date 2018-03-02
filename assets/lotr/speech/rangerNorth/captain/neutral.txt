@@ -1,12 +1,12 @@
-Only the strongest friends of the Dúnedain may fight with us in battle, #.
-If you wish to captain the Rangers of the North, you must prove your trust.
-Are you friend or foe, #?
-They say you are a friend of the Dúnedain, but I cannot be sure until you have done more good.
-One does not simply command Rangers of the North without gaining some reputation first.
-You are not yet thought of highly enough to fight with my Rangers in battle, #.
-Show us that you can be trusted, #, and we will fight alongside you.
-You will have to prove yourself to our kin, if you wish to command some of our mighty Rangers.
-We Rangers do not follow any stranger into battle. You will have to prove that you truly fight for good in this world.
-Prove your allegiance to us, and we shall ally with you.
-You must prove yourself worthy first, if you wish to lead us to battle.
-Only a true friend of our folk may lead us against the servants of evil.
+Seuls les plus forts amis des Dúnedain peuvent se battre avec nous au combat, #.
+Si vous souhaitez diriger les Rangers du Nord, vous devez prouver votre confiance.
+Êtes-vous ami ou ennemi, #?
+Ils disent que vous êtes un ami des Dúnedain, mais je ne peux pas être sûr que vous ayez fait plus de bien.
+On ne commande pas simplement aux Rangers du Nord sans acquérir une certaine réputation en premier.
+Tu n'es pas encore assez avancé pour combattre avec mes Rangers au combat, #.
+Montrez-nous que vous pouvez avoir confiance, #, et nous nous battrons à vos côtés.
+Vous devrez vous prouver à nos parents, si vous souhaitez commander certains de nos puissants Rangers.
+Nous, Rangers, ne suivons aucun étranger dans la bataille. Vous devrez prouver que vous vous battez vraiment pour le bien dans ce monde.
+Prouvez-nous votre allégeance, et nous nous allierons avec vous.
+Vous devez prouver que vous êtes digne d'abord, si vous voulez nous conduire au combat.
+Seul un véritable ami de notre peuple peut nous conduire contre les serviteurs du mal.

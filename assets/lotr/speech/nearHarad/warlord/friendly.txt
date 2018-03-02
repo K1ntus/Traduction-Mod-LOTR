@@ -1,11 +1,11 @@
-My warriors are yours to command, great lord #.
-Have you wealth of silver, #?
-Friend of Harad, do you seek to hire warriors?
-If you seek a fighting force, we Haradrim are second to none.
-Have you any silver coins, #?
-I have heard of your great deeds, #. Gladly will I let you hire my warriors.
-Do you seek to command the mighty warriors of Harad?
-For a few silver coins, I will give you command of some of my men!
-Word of your deeds has spread quickly in our lands. It would be an honour for my men to serve you!
-No warriors in all the world can rival the mighty Men of Harad!
-My men are strong and mighty warriors. Do you seek to hire some?
+Mes guerriers sont à vous pour commander, grand seigneur.
+Avez-vous la richesse de l'argent, #?
+Ami de Harad, cherchez-vous à engager des guerriers?
+Si vous cherchez une force de combat, nous Haradrim sont incomparables.
+Avez-vous des pièces d'argent, #?
+J'ai entendu parler de tes grandes actions, #. Volontiers je vais vous laisser engager mes guerriers.
+Cherchez-vous à commander les puissants guerriers de Harad?
+Pour quelques pièces d'argent, je vais vous donner le commandement de certains de mes hommes!
+La parole de vos actes s'est répandue rapidement dans nos terres. Ce serait un honneur pour mes hommes de vous servir!
+Aucun guerrier dans le monde ne peut rivaliser avec les puissants hommes de Harad!
+Mes hommes sont des guerriers forts et puissants. Cherchez-vous à en embaucher?
