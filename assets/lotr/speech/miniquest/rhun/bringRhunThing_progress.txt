@@ -1,2 +1,2 @@
-#, have you found what I asked of you yet? We will depart soon, so please hurry!
-I asked you for $, #. Have you found them yet?
+#, avez-vous trouvé ce que je vous ai demandé? Nous partirons bientôt, alors dépêchez-vous!
+Je vous ai demandé $, #. Les avez-vous déjà trouvés?

@@ -1,12 +1,12 @@
-I appreciate a brave adventurer like yourself trying to help me, but you have already too many duties weighing on your mind.
-I appreciate your offer, but you are too busy, #.
-You already have too many tasks to do, #. Complete some of them and please, come back - I will reward you generously.
-Your concern does you credit, but I won't burden you with my troubles until you free yourself from yours.
-You are eager to help me, my friend, and I thank you, but you are much too busy.
-I wish I was still a strong young lad like you, but I can't accept your help until you help those who you already promised.
-I could not possibly burden you with more tasks, my friend.
-You seem very busy, my friend. Please, come back when you have less work to do.
-Thank you for the offer of help, my friend, but you are far too busy.
-You should help those who you have already made promises to.
-Haven't you already promised to help others, #?
-You are quite busy enough as it is, #.
+J'apprécie un aventurier courageux comme vous qui essaye de m'aider, mais vous avez déjà trop de devoirs qui pèsent sur votre esprit.
+J'apprécie votre offre, mais vous êtes trop occupé, #.
+Vous avez déjà trop de tâches à faire, #. Remplis-en quelques uns et s'il te plaît, reviens - je te récompenserai généreusement.
+Votre préoccupation, croyez-vous, mais je ne vous chargerai pas de mes ennuis tant que vous ne serez pas libérés des vôtres.
+Vous êtes désireux de m'aider, mon ami, et je vous remercie, mais vous êtes trop occupé.
+Je voudrais être encore un jeune garçon fort comme vous, mais je ne peux pas accepter votre aide tant que vous n'aurez pas aidé ceux que vous avez déjà promis.
+Je ne pourrais pas vous charger de plus de tâches, mon ami.
+Tu sembles très occupé, mon ami. S'il vous plaît, revenez quand vous avez moins de travail à faire.
+Merci pour l'offre d'aide, mon ami, mais vous êtes trop occupé.
+Vous devriez aider ceux que vous avez déjà promis.
+Tu n'as pas déjà promis d'aider les autres, #?
+Vous êtes assez occupé comme il est, #.
