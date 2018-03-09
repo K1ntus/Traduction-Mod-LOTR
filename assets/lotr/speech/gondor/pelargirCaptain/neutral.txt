@@ -1,12 +1,12 @@
-Only strong friends of Pelargir may command our armies, #.
-If you wish to command the forces of Pelargir, you must prove that we can trust you.
-Are you friend or foe, #?
-They say you are a friend of Pelargir, but I cannot be sure until you have done more good.
-One does not simply command soldiers of Pelargir without earning some reputation first.
-You are not yet thought of highly enough to lead our soldiers into battle, #.
-Show us that you can be trusted, #, and we will allow you to lead our soldiers.
-You wish to command my soldiers? You'll have to prove yourself to the people of Pelargir first, #.
-Only a true friend of Pelargir can lead our valiant marines into battle.
-You'll have to prove yourself as an ally of Pelargir before you can command my tridents, #.
-You must do more good deeds for the people of Pelargir if you wish to command our armies.
-Prove your allegiance to Pelargir and I will let you command my warriors.
+Seuls les amis forts de Pelargir peuvent commander nos armées, #.
+Si vous souhaitez commander les forces de Pelargir, vous devez prouver que nous pouvons vous faire confiance.
+Êtes-vous ami ou ennemi, #?
+Ils disent que vous êtes un ami de Pelargir, mais je ne peux pas être sûr que vous ayez fait plus de bien.
+On ne commande pas simplement des soldats de Pelargir sans gagner d'abord la réputation.
+Vous n'êtes pas encore assez hautement considéré pour mener nos soldats au combat, #.
+Montre-nous qu'on peux avoir confiance, #, et nous te permettrons de diriger nos soldats.
+Vous souhaitez commander mes soldats? Vous devrez d'abord vous prouver aux gens de Pelargir, #.
+Seul un véritable ami de Pelargir peut mener nos vaillants Guerriers tridents dans la bataille.
+Vous devrez vous prouver comme un allié de Pelargir avant de pouvoir commander mes Guerriers tridents, #.
+Vous devez faire plus de bonnes actions pour les gens de Pelargir si vous souhaitez commander nos armées.
+Prouve ton allégeance à Pelargir et je te laisserai commander mes guerriers.

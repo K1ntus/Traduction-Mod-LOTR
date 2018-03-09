@@ -1,19 +1,19 @@
-No evil may set foot in the Last Fair Realm!
-You may not enter Lindon.
-#, you may not set foot in Lindon!
-You breathe so loudly I could have shot you in the dark.
-You are unwelcome in our lands.
-Your presence is unwelcome here.
-You are no Elf-friend, #!
-The Enemy has no hold over Lindon!
-You may not bring evil here, #!
-Your darkness shall not poison the Last Fair Realm east of the Sea!
-To Udûn with you!
-Go and kiss an Orc!
-Death to the foes of the Elves!
-Who brings to us this token of doom?
-Begone, servant of evil!
-Go back to the shadow whence you came!
-We shall not allow evil to enter our realm. Leave now or face our wrath!
-You bring great evil here, #. You can go no further.
-How dare you poison this fair realm with your foul feet?
+Aucun mal ne peut mettre le pied dans le dernier royaume juste!
+Vous ne pouvez pas entrer dans Lindon.
+#, vous ne pouvez pas mettre les pieds dans Lindon!
+Tu respires si fort que j'aurais pu te tirer dessus dans le noir.
+Vous êtes importun dans nos terres.
+Votre présence n'est pas la bienvenue ici.
+Vous n'êtes pas un ami Elfe, #!
+L'Ennemi n'a aucun emprise sur Lindon!
+Vous ne pouvez pas apporter le mal ici, #!
+Vos ténèbres ne doivent pas empoisonner le dernier royaume juste à l'est de la mer!
+Pour Udûn avec vous!
+Va embrasser un Orque!
+Mort aux ennemis des Elfes!
+Qui nous apporte cette marque de malheur?
+Va-t'en, serviteur du mal!
+Retourne à l'ombre d'où tu es venu!
+Nous ne permettrons pas au mal d'entrer dans notre royaume. Pars maintenant ou fais face à notre colère!
+Vous apportez un grand mal ici, #. Tu ne peux pas aller plus loin.
+Comment oses-tu empoisonner ce royaume juste avec tes pieds sales?

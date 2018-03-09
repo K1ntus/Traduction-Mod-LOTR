@@ -1,12 +1,12 @@
-Only strong friends of Lamedon may command our armies, #.
-If you wish to command the forces of Lamedon, you must prove that we can trust you.
-Are you friend or foe, #?
-They say you are a friend of Lamedon, but I cannot be sure until you have done more good.
-One does not simply command Lamedon warriors without earning some reputation first.
-You are not yet thought of highly enough to lead our warriors into battle, #.
-Show us that you can be trusted, #, and we will allow you to lead our soldiers.
-You wish to command my warriors? You'll have to prove yourself to the people of Lamedon first, #.
-Only a true friend of Gondor can lead our valiant warriors into battle.
-You'll have to prove yourself as an ally of the Lamedon-folk before you can command my swords, #.
-You must do more good deeds for the people of these lands if you wish to command our armies.
-Prove your allegiance to Lamedon and I will let you command my warriors.
+Seuls les amis forts de Lamedon peuvent commander nos armées, #.
+Si vous souhaitez commander les forces de Lamedon, vous devez prouver que nous pouvons vous faire confiance.
+Êtes-vous ami ou ennemi, #?
+Ils disent que vous êtes un ami de Lamedon, mais je ne peux pas être sûr que vous ayez fait plus de bien.
+On ne commande pas simplement les guerriers de Lamedon sans gagner d'abord la réputation.
+Vous n'êtes pas encore assez bien considéré pour mener nos guerriers au combat, #.
+Montre-nous qu'on peux avoir confiance, #, et nous te permettrons de diriger nos soldats.
+Vous souhaitez commander mes guerriers? Vous devrez d'abord vous prouver aux gens de Lamedon, #.
+Seul un véritable ami de Gondor peut mener nos vaillants guerriers au combat.
+Vous devrez vous prouver comme un allié du peuple Lamedon avant de pouvoir commander mes épées, #.
+Vous devez faire plus de bonnes actions pour les gens de ces terres si vous souhaitez commander nos armées.
+Prouve ton allégeance à Lamedon et je te laisserai commander mes guerriers.

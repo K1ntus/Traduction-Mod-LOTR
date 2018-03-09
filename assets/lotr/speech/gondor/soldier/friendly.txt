@@ -1,39 +1,40 @@
-Welcome to Gondor.
-Welcome to Gondor, #.
-We are truth-speakers, we Men of Gondor.
-I long to see a King on the throne of Gondor again.
-These are dark times. A great power is rising in the east.
-I am a soldier of Gondor.
-I hope to see the glory of Gondor restored someday.
-Gondor is not as great as it once was.
-It is a shame you could not have come to Gondor in happier days, #.
-Welcome, #. What business brings you to Gondor?
-Good day, #! Welcome to the land of Gondor.
-I have heard stories that the Kings may one day return and rule Gondor once more. But those are just folk-tales; they cannot be true...
-Greetings, #. What news do you bring to Gondor from afar?
-An evil is rising once more behind the walls of Mordor. I fear it shall be our doom.
-My kin protect these lands. If not for the brave Men of Gondor, the world would have succumbed to the Shadow a long time ago.
-The heroes of Gondor shall rise to protect us, #.
-Gondor was once one of the greatest realms of Men. Yet today it is merely a land of crumbling brick, and false hearts...
-I have trained all my life to kill Orcs. But may the Valar save me if a Troll comes knocking!
-You may have travelled far to see Gondor, #. Yet I think you have found it in dark days.
-If the Enemy should send all his might against us, #... well, I doubt we would see another dawn!
-I pity the rangers in Ithilien, #. They will be the first to fall.
-I very much doubt our aged defences can withstand the might of Mordor. Yet still, I shall fight to my last, for the freedom of Men.
-You come on a fine day, #. The Orcs have not raided our lands in more than a week.
-There have been foul airs on the wind of late. We fear something is gathering behind the mountains of ash.
-We live in fear here, #. If you seek safety, I would advise you to travel to the lands of the Prince.
-It would take thousands of Orcs to bring down even a dozen good Gondorians.
-If anything foul should befall Gondor, then the Rohirrim would ride to our aid. I am sure of it.
-Do not think Gondor weak, #. In heart and spirit, the Men of Gondor shall always remain strong.
-I have seen with my eyes the ruin of Osgiliath, where once was our capital city. But for five hundred years, that city has been host to naught but silent grief, a reminder of Gondor's darkening decline.
-Have you seen the Argonath, #? It is a sight to behold!
-The vales of the Anduin are beautiful lands, almost rivalling the beauty of Gondor itself.
-Gondor has never since regained the glory it had during the days of the line of Anárion.
-Beware the slimy Orc, but fear more the Wainrider on his chariot. Though that race we have neither faced in battle nor heard tidings of for many generations.
-The White Tree is long since failed, yet our hearts still beat true.
-It is said that the peaks of the White Mountains may be seen from anywhere one may stand in Gondor.
-I long to see the Swan Knights of Dor-en-Ernil ride into battle.
-Stay far from the pines of Tawar-in-Drúedain, #. Strange Men live there who worship stone and leaf.
-If the beacons of the White Tower should be lit, then we will know at last that our doom has come.
-The old tomb-mound of Elendil is named Halifirien in the tongue of Rohan. But his casket was sent to the Silent Street of the Stone City, five hundred years ago.
+Bienvenue à Gondor.
+Bienvenue à Gondor.
+Bienvenue à Gondor, #.
+Nous sommes des orateurs de vérité, nous Hommes de Gondor.
+Il me tarde de revoir un roi sur le trône de Gondor.
+Ce sont des temps sombres. Une grande puissance monte à l'est.
+Je suis un soldat du Gondor.
+J'espère voir la gloire de Gondor restaurée un jour.
+Gondor n'est pas aussi génial qu'il l'était autrefois.
+C'est une honte que vous n'ayez pas pu venir en Gondor dans des jours plus heureux, #.
+Bienvenue, #. Quelles affaires vous amène à Gondor?
+Bonne journée, #! Bienvenue au pays de Gondor.
+J'ai entendu dire que les Rois pourraient un jour revenir et gouverner Gondor une fois de plus. Mais ce ne sont que des contes populaires; ils ne peuvent pas être vrais ...
+Salutations, #. Quelles nouvelles apportez-vous en Gondor de loin?
+Un mal se lève une fois de plus derrière les murs du Mordor. Je crains que ce soit notre perte.
+Mes parents protègent ces terres. Sans les braves hommes de Gondor, le monde aurait succombé à l'ombre il y a longtemps.
+Les héros de Gondor se lèveront pour nous protéger, #.
+Gondor était autrefois l'un des plus grands royaumes des hommes. Pourtant, aujourd'hui, il est simplement une terre de brique en ruine, et de faux cœurs ...
+Je me suis entraîné toute ma vie pour tuer des Orques. Mais que les Valar me sauvent si un Troll vient frapper!
+Vous avez peut-être voyagé loin pour voir Gondor, #. Pourtant, je pense que vous l'avez trouvé dans les jours sombres.
+Si l'Ennemi devait envoyer toute sa force contre nous, # ... eh bien, je doute que nous verrions une autre aube!
+Je plains les rangers à Ithilien, #. Ils seront les premiers à tomber.
+Je doute fort que nos anciennes défenses puissent résister à la puissance du Mordor. Pourtant, encore, je me battrai jusqu'à la fin, pour la liberté des hommes.
+Vous venez un beau jour, #. Les Orques n'ont pas attaqué nos terres depuis plus d'une semaine.
+Il y a eu des airs nuls sur le vent ces derniers temps. Nous craignons que quelque chose ne se rassemble derrière les montagnes de cendres.
+Nous vivons dans la peur ici, #. Si vous cherchez la sécurité, je vous conseillerais de voyager sur les terres du Prince.
+Il faudrait des milliers d'Orques pour abattre même une douzaine de bons Gondoriens.
+Si quelque chose de mauvais devait arriver à Gondor, alors les Rohirrim se rendraient à notre aide. J'en suis certain.
+Ne pensez pas que Gondor est faible, #. Dans le cœur et dans l'esprit, les Hommes de Gondor resteront toujours forts.
+J'ai vu de mes yeux la ruine d'Osgiliath, où était autrefois notre capitale. Mais depuis cinq cents ans, cette ville n'a été l'hôte que d'un chagrin silencieux, un rappel du déclin de plus en plus profond du Gondor.
+Avez-vous vu l'Argonath, #? C'est un spectacle à voir!
+Les vallées de l'Anduin sont de belles terres, rivalisant presque avec la beauté de Gondor lui-même.
+Gondor n'a jamais retrouvé depuis la gloire qu'il avait pendant les jours de la ligne d'Anárion.
+Méfiez-vous de l'orque visqueux, mais craignez plus le Wainrider sur son char. Bien que cette race nous n'avons jamais fait face à la bataille ni entendu des nouvelles de plusieurs générations.
+L'arbre blanc a échoué depuis longtemps, mais nos cœurs battent encore la vérité.
+On dit que les sommets des Montagnes Blanches peuvent être vus de n'importe où dans le Gondor.
+J'ai hâte de voir les chevaliers-cygnes de Dor-en-Ernil se lancer dans la bataille.
+Restez loin des pins de Tawar-in-Drúedain, #. Les hommes étranges vivent là qui adorent la pierre et la feuille.
+Si les phares de la Tour Blanche doivent être allumés, alors nous saurons enfin que notre destin est venu.
+L'ancien tombeau d'Elendil s'appelle Halifirien dans la langue de Rohan. Mais son cercueil fut envoyé dans la rue silencieuse de la Cite de Pierre, il y a cinq cents ans.

@@ -1,12 +1,12 @@
-Only the strongest friends of Gondor may command its armies, #.
-If you wish to command the forces of Gondor, you must prove that we can trust you.
-Are you friend or foe, #?
-They say you are a friend of Gondor, but I cannot be sure until you have done more good.
-One does not simply command soldiers of Gondor without earning some reputation first.
-You are not yet thought of highly enough to lead our soldiers into battle, #.
-Show us that you can be trusted, #, and we will allow you to lead our soldiers.
-You wish to command my soldiers? You'll have to prove yourself to the people of Gondor first, #.
-Only a true friend of Gondor can lead our valiant soldiers into battle.
-You'll have to prove yourself as an ally of Gondor before you can command my troops, #.
-You must do more good deeds for the people of Gondor if you wish to command our armies.
-Prove your allegiance to Gondor and I will let you command my soldiers.
+Seuls les amis les plus forts de Gondor peuvent commander ses armées, #.
+Si vous souhaitez commander les forces de Gondor, vous devez prouver que nous pouvons vous faire confiance.
+Êtes-vous ami ou ennemi, #?
+Ils disent que vous êtes un ami de Gondor, mais je ne peux pas être sûr que vous ayez fait plus de bien.
+On ne commande pas simplement des soldats de Gondor sans gagner d'abord la réputation.
+Vous n'êtes pas encore assez hautement considéré pour mener nos soldats au combat, #.
+Montre-nous qu'on peux avoir confiance, #, et nous te permettrons de diriger nos soldats.
+Vous souhaitez commander mes soldats? Vous devrez d'abord prouver aux gens de Gondor, #.
+Seul un véritable ami du Gondor peut mener nos vaillants soldats au combat.
+Vous devrez vous prouver comme un allié de Gondor avant de pouvoir commander mes troupes, #.
+Vous devez faire plus de bonnes actions pour le peuple du Gondor si vous souhaitez commander nos armées.
+Prouve ton allégeance à Gondor et je te laisserai commander mes soldats.

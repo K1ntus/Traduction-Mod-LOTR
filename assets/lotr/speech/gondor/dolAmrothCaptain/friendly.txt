@@ -1,15 +1,15 @@
-Do you seek to command the knights of Dol Amroth, #?
-Dol Amroth's forces can be yours to command for a fair sum of silver.
-Our soldiers need paying, #!
-Bring some silver coins and you can have some Swan Knights.
-Are you here with the intention of hiring the Swan Knights for war?
-I can grant you some warriors in return for silver coins.
-The Men of Dol Amroth now respect you enough to follow you into battle, #.
-The warriors of Dol Amroth trust you, #. You may command my valiant knights.
-Do you wish to command the mighty armies of Dol Amroth?
-For a few dozen silver coins, you can command the strongest warriors in all of Gondor.
-If you wish to take my troops to battle, you'll have to pay for them!
-Give me some silver coins and I'll give you some knights!
-My men are in the service of the Prince.
-My men are the mightiest knights in all of Gondor!
-The skill of the knights of Dol Amroth is unmatched.
+Cherchez-vous à commander les chevaliers de Dol Amroth, #?
+Les forces de Dol Amroth peuvent être à votre disposition pour une bonne somme d'argent.
+Nos soldats ont besoin d'etre payés, #!
+Apportez des pièces d'argent et vous pouvez avoir des chevaliers de cygne.
+Êtes-vous ici avec l'intention d'embaucher les Chevaliers du Cygne pour la guerre?
+Je peux vous accorder des guerriers en échange de pièces d'argent.
+Les Hommes de Dol Amroth te respectent maintenant assez pour te suivre dans la bataille, #.
+Les guerriers de Dol Amroth vous font confiance, #. Vous pouvez commander mes vaillants chevaliers.
+Voulez-vous commander les puissantes armées de Dol Amroth?
+Pour quelques dizaines de pièces d'argent, vous pouvez commander les guerriers les plus forts dans l'ensemble de Gondor.
+Si vous souhaitez prendre mes troupes au combat, vous devrez les payer!
+Donnez-moi des pièces d'argent et je vous donnerai des chevaliers!
+Mes hommes sont au service du prince.
+Mes hommes sont les plus puissants chevaliers de Gondor!
+L'habileté des chevaliers de Dol Amroth est inégalée.

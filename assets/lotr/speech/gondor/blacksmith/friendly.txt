@@ -1,11 +1,11 @@
-Want some equipment? Bring me silver coins.
-Welcome, #! What can I forge for you?
-Materials for equipment are always in short supply.
-I see you are a friend of Gondor, #.
-Might you be seeking some fine Gondorian equipment, #?
-I'm still looking for an apprentice...
-I forge the best weaponry in all of Gondor!
-Good day, #! Do you require some fine Gondorian equipment?
-Welcome to Gondor, #! What can I get you?
-These are dark days... Materials are scarce and expensive.
-What do you need, #?
+Voulez-vous du matériel? Apportez-moi des pièces d'argent.
+Bienvenue, #! Que puis-je forger pour vous?
+Les matériaux pour l'équipement sont toujours en nombre insuffisant.
+Je vois que vous êtes un ami de Gondor, #.
+Pourriez-vous chercher un bon équipement gondorien, #?
+Je suis toujours à la recherche d'un apprentis ...
+Je forge la meilleure armure de tous les Gondor!
+Bonne journée, #! Avez-vous besoin d'un bon équipement gondorien?
+Bienvenue à Gondor, #! Que puis-je vous obtenir?
+Ce sont des jours sombres ... Les matériaux sont rares et chers.
+De quoi avez-vous besoin, #?

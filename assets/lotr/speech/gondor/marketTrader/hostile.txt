@@ -1,17 +1,17 @@
-I shan't be selling anything to you, #.
-Sorry, #. I don't trade with ruffians.
-You're not welcome in my market, #!
-If it was up to me, I'd call the guards on you...
-You're a ne'er-do-well if I ever saw one, #.
-I don't do trade with villains.
-There's no need for folk of your sort here, #.
-I'm an honest merchant, #, but you're not an honest fellow.
-I like to think I'm an honest merchant. Sorry, #, I shan't be trading with you.
-What did you think you'll be getting from me? Flowers and a song? You're a nasty piece of work, #.
-No thank-you, #!
-I'll have to turn down your business, #. I only trade with honest folk.
-I only buy and sell to good Men of Gondor.
-I don't make custom with folk like you.
-Well, I shan't be buying anything from you.
-Aren't folk like you supposed to be kept out of these parts?
-I'd trade with you if the guards weren't watching, #.
+Je ne te vendrai rien, #.
+Pardon, #. Je ne négocie pas avec des voyous.
+Vous n'êtes pas le bienvenu sur mon marché, #!
+Si ça ne tenait qu'à moi, j'appellerais les gardes sur toi ...
+Vous êtes un ne'er-do-well si j'en ai jamais vu un, #.
+Je ne fais pas de commerce avec des méchants.
+Il n'y a pas besoin de gens de votre espèce ici, #.
+Je suis un honnête marchand, mais vous n'êtes pas un honnête garçon.
+J'aime penser que je suis un marchand honnête. Désolé, #, je ne ferai pas de commerce avec vous.
+Qu'avez-vous pensé que vous obtiendrez de moi? Des fleurs et une chanson? Vous êtes une vilaine créature, #.
+Non, merci, #!
+Je vais devoir refuser votre demande, #. Je ne fais que du commerce avec des gens honnêtes.
+Je ne fais qu'acheter et vendre à de bons hommes de Gondor.
+Je ne fais pas d'affaire avec des gens comme vous.
+Eh bien, je ne vais rien acheter venant toi.
+Les gens comme vous ne sont-ils pas censés être tenus à l'écart de ces parties?
+J'échangerais avec vous si les gardes ne regardaient pas, #.

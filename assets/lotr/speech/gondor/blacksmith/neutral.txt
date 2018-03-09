@@ -1,11 +1,11 @@
-You'll have to earn some more respect if you want to trade with me.
-Prove that you can be trusted, and I will offer you my wares.
-I'm not sure about you, #.
-Are you a friend of Gondor, or its enemy?
-Are you a friend of Gondor, #?
-I only trade with trusted friends of Gondor, #.
-I do not trade with any odd stranger that passes by...
-You will have to prove your allegiance to Gondor if you wish to trade with me.
-I do not trust you enough to trade with you. You will have to prove yourself, #.
-Prove yourself to Gondor, and then I shall trade with you!
-You will have to do more good before I can trade with you.
+Vous devrez gagner plus de respect si vous voulez faire du commerce avec moi.
+Prouve que tu peux avoir confiance et je t'offrirai mes marchandises.
+Je ne suis pas sûr de toi, #.
+Êtes-vous un ami de Gondor, ou son ennemi?
+Êtes-vous un ami de Gondor, #?
+Je ne commerce qu'avec des amis de confiance de Gondor, #.
+Je ne négocie pas avec un étrange étranger qui passe par ...
+Vous devrez prouver votre allégeance à Gondor si vous souhaitez faire du commerce avec moi.
+Je ne te fais pas assez confiance pour commercer avec toi. Vous devrez le prouver vous-même, #.
+Prouvez le à Gondor, et alors je commercerai avec vous!
+Vous devrez faire plus de bien avant de pouvoir commercer avec vous.

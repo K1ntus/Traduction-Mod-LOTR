@@ -1,22 +1,22 @@
-You're no friend of mine, #.
-You're a villain!
-Get out of my sight, #.
-Run along, #, else I'll call the guards on you.
-You won't be doing any crimes here!
-You're a nasty piece of work, #.
-You are no friend of Gondor, #.
-You shall get no welcome here.
-You'd best be careful around here. It's not safe for criminals like you.
-Leave Gondor while you still can, #.
-We don't look kindly on criminals here!
-I suggest you leave this place, #.
-Away with you!
-Our people have no love for villains like you!
-The heroes of Gondor will strike you down, #.
-You'd be best to leave, #. Or would you rather be forced out?
-You belong in the stocks, #!
-Don't look at me like that.
-What do you want from me, you scoundrel?
-We have no love for people of your sort.
-You're a ne'er-do-well, #, that's for sure.
-Off with you, #! We don't welcome ne'er-do-wells in Gondor.
+Vous n'êtes pas mon ami, #.
+Vous êtes un méchant!
+Hors de ma vue, #.
+Courez, #, sinon je vais appeler les gardes sur vous.
+Vous ne ferez pas de crimes ici!
+Vous êtes un travail mal fait, #.
+Vous n'êtes pas un ami de Gondor, #.
+Vous n'obtiendrez aucun accueil ici.
+Vous feriez mieux de faire attention ici. Ce n'est pas sûr pour les criminels comme vous.
+Laissez Gondor pendant que vous le pouvez encore, #.
+Nous ne regardons pas avec bonté les criminels ici!
+Je vous suggère de quitter cet endroit, #.
+allez vous en loin de moi!
+Nos gens n'aiment pas les méchants comme vous!
+Les héros de Gondor vont vous frapper, #.
+Tu ferais mieux de partir, #. Ou préféreriez-vous être expulsé?
+Vous appartenez aux imbeciles, #!
+Ne me regarde pas comme ça.
+Que veux-tu de moi, canaille?
+Nous n'avons aucun amour pour les gens de votre espèce.
+Vous êtes un ne'er-do-well, #, c'est sûr.
+Va-t-en, #! Nous n'accueillons pas les gens qui ne font rien dans le Gondor.

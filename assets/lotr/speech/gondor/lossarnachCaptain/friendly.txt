@@ -1,12 +1,12 @@
-Do you seek to command the warriors of Lossarnach, #?
-Our forces can be yours to command for only a small sum of silver.
-Our soldiers need paying, #!
-Bring some silver coins and you can have some hired axes.
-Are you here with the intention of hiring my soldiers?
-I can grant you some warriors in return for silver coins.
-The Men of Lossarnach now respect you enough to follow you into battle, #.
-The people of Lossarnach trust you, #. You may command our valiant axe-warriors.
-Do you wish to command the mighty armies of Lossarnach?
-For a few dozen silver coins, you can command very valiant and loyal soldiers.
-If you wish to take my troops to battle, you'll have to pay for them!
-Give me some silver coins and I'll give you some axemen!
+Cherchez-vous à commander les guerriers de Lossarnach, #?
+Nos forces peuvent être à vous pour seulement une petite somme d'argent.
+Nos soldats ont besoin d'etre payés, #!
+Apportez des pièces d'argent et vous pouvez louer des Guerriers .
+Êtes-vous ici avec l'intention d'embaucher mes soldats?
+Je peux vous accorder des guerriers en échange de pièces d'argent.
+Les hommes de Lossarnach te respectent assez maintenant pour te suivre dans la bataille, #.
+Les gens de Lossarnach vous font confiance, #. Vous pouvez commander nos vaillants guerriers.
+Voulez-vous commander les puissantes armées de Lossarnach?
+Pour quelques dizaines de pièces d'argent, vous pouvez commander des soldats très vaillants et loyaux.
+Si vous souhaitez prendre mes troupes au combat, vous devrez les payer!
+Donnez-moi des pièces d'argent et je vous donnerai quelques guerriers!

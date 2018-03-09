@@ -1,45 +1,45 @@
-Welcome to my stall, #!
-Have you seen the goods I carry here?
-Be sure to check out my stall, #. I have quite the full inventory waiting for you!
-You won't find prices this good anywhere else in Gondor.
-I'm sure you'll like what I have in store!
-Have you heard of the White Tree? Legend has it my goods are thrice as valuable, and one-half the price!
-If it rains like it did last weekend, #, I'll have to close shop!
-Don't just pass by my shop, # - come and see!
-Every bit of coin helps, #. I have children at home I have to feed.
-#, would you consider taking a look at my stocks?
-Ah... #? You remind me of that Northerner who passed by here last week. What was his name again? Thorongil?
-You don't seem to be from these parts, #. Can I help you?
-I could definitely use some coin to pay off that job in Pinnath Gelin, #... whoops! Forget I said that!
-You seem friendly enough, #. Care to take a look?
-This is the best shop south of the Argonath!
-#! I knew you'd come and buy here!
-I'd love to trade with you again!
-If you won't buy anything here, I doubt you'll be able to find anything better in the next town over.
-I have many goods on offer.
-There's plenty here for you to buy!
-Come and browse my wares.
-What is it you need, #? I'm sure I have it!
-Got any coins, my friend?
-Ah, my good friend #! How can I help you today?
-I have many quality goods to trade.
-Is this what you need?
-What are you after, #?
-Everything you want, for a fraction of the price!
-I'd love to have some of that coin of yours.
-Say there, #. Do you have any coin to hand?
-Come and browse these wares, #. You won't regret it!
-I didn't come to this market just to stand here and stare at the clouds!
-Ah, #! You'll buy something - won't you?
-I have a family to feed, #.
-You seem like a friendly fellow, #. Just the sort I like to trade with.
-Do you have any goods to sell?
-Do you have any coin to trade?
-Any goods to sell, #?
-I wonder if you're carrying anything valuable.
-You just might have something I'd buy, #.
-What are you carrying, #? Might be I can fetch you a good price for it.
-Are you in need of a few coins? I buy as well as I sell, #.
-Are you looking for deals, #? I have the best deals.
-I have the best deals in town. My deals are better than anyone else's!
-I'll make you a good deal, #. I have the best deals.
+Bienvenue dans mon stand, #!
+Avez-vous vu les marchandises que je porte ici?
+Assurez-vous de vérifier mon stand, #. J'ai tout l'inventaire complet qui vous attend!
+Vous ne trouverez pas de prix aussi bon ailleurs dans le Gondor.
+Je suis sûr que vous aimerez ce que j'ai en magasin!
+Avez-vous entendu parler de l'arbre blanc? La légende veut que mes marchandises soient trois fois plus valables, et la moitié du prix!
+S'il pleut comme le week-end dernier, #, je vais devoir fermer boutique!
+Ne passez pas juste devant ma boutique, # - venez voir!
+Chaque pièce de monnaie aide, #. J'ai des enfants à la maison que je dois nourrir.
+#, envisageriez-vous de jeter un oeil à mon stocks?
+Ah ... #? Vous me rappelez ce Nordiste qui est passé ici la semaine dernière. Quel était son nom? Thorongil?
+Vous ne semblez pas être de ces parties, #. Puis-je vous aider?
+Je pourrais certainement utiliser une pièce de monnaie pour payer ce travail à Pinnath Gelin, # ... whoops! Oubliez que j'ai dit ça!
+Vous semblez assez amical, #. Vous voulez jeter un coup d'oeil?
+C'est le meilleur magasin au sud de l'Argonath!
+#! Je savais que tu viendrais acheter ici!
+J'aimerais commercer avec vous encore!
+Si vous n'achetez rien ici, je doute que vous puissiez trouver quelque chose de mieux dans la prochaine ville.
+J'ai beaucoup de marchandises en vente.
+Il y a beaucoup ici a vous d'acheter!
+Venez regarder mes marchandises.
+De quoi avez-vous besoin, #? Je suis sûr que je l'ai!
+Vous avez des pièces de monnaie, mon ami?
+Ah, mon bon ami #! Comment puis-je vous aider aujourd'hui?
+J'ai beaucoup de marchandises de qualité à échanger.
+Est-ce ce dont vous avez besoin?
+Ce que vous êtes après je l'ai, #?
+Tout ce que vous voulez, pour une fraction du prix!
+J'aimerais avoir une partie de cette pièce de monnaie.
+Dis là, #. Avez-vous une pièce de monnaie à portée de main?
+Venez parcourir ces articles, #. Vous ne le regretterez pas!
+Je ne suis pas venu sur ce marché juste pour rester ici et regarder les nuages!
+Ah, #! Vous allez acheter quelque chose - n'est-ce pas?
+J'ai une famille à nourrir, #.
+Vous semblez être un ami, #. Juste le genre que j'aime faire affaire avec.
+Avez-vous des marchandises à vendre?
+Avez-vous une pièce à échanger?
+Toutes les marchandises sont à vendre, #?
+Je me demande si vous portez quelque chose de précieux.
+Vous pourriez juste avoir quelque chose que j'achèterais, #.
+Que portez-vous, #? Peut-être que je peux vous chercher un bon prix pour cela.
+Avez-vous besoin de quelques pièces de monnaie? J'achète aussi bien que je vends, #.
+Cherchez-vous des offres, #? J'ai les meilleures offres.
+J'ai les meilleures offres en ville. Mes offres sont meilleures que n'importe qui d'autre!
+Je vais vous faire une bonne affaire, #. J'ai les meilleures offres.

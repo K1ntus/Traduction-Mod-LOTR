@@ -1,12 +1,12 @@
-Do you seek to command the armies of Gondor, #?
-Gondor's forces can be yours to command for only a small sum of silver.
-Our soldiers need paying, #!
-Bring some silver coins and you can have some soldiers.
-Are you here with the intention of hiring Gondor's soldiers?
-I can grant you some warriors in return for silver coins.
-The Men of Gondor now respect you enough to follow you into battle, #.
-The people of Gondor trust you, #. You may command our valiant warriors.
-Do you wish to command the mighty armies of Gondor?
-For a few dozen silver coins, you can command very valiant and loyal soldiers.
-If you wish to take my troops to battle, you'll have to pay for them!
-Give me some silver coins and I'll give you some soldiers!
+Cherchez-vous à commander les armées de Gondor, #?
+Les forces de Gondor peuvent être à vous pour seulement une petite somme d'argent.
+Nos soldats ont besoin d'etre payés, #!
+Apportez des pièces d'argent et vous pouvez avoir des soldats.
+Êtes-vous ici avec l'intention d'engager les soldats du Gondor?
+Je peux vous accorder des guerriers en échange de pièces d'argent.
+Les Hommes de Gondor te respectent assez maintenant pour te suivre dans la bataille, #.
+Les gens de Gondor vous font confiance, #. Vous pouvez commander nos vaillants guerriers.
+Voulez-vous commander les puissantes armées de Gondor?
+Pour quelques dizaines de pièces d'argent, vous pouvez commander des soldats très vaillants et loyaux.
+Si vous souhaitez prendre mes troupes au combat, vous devrez les payer!
+Donnez-moi des pièces d'argent et je vous donnerai des soldats!

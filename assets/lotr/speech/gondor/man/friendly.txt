@@ -1,64 +1,64 @@
-Welcome to Gondor, #!
-Good day, #.
-Welcome, my lord #. Is there anything I can do for you?
-Gondor welcomes you, #.
-These are dark times for Gondor, #.
-Men whisper of fell creatures spawning in the East, and tell tales of a nameless fear...
-Welcome, #. Would that you had come to Gondor in happier days.
-Do not be afraid, my friend #. Rohan will come to our aid. They always come to our aid.
-These are troubled times for our people. Darkness gathers in Mordor, and the lords of the White City are silent.
-This country is my home, #. I fear for us all in these dark days.
-This country was a great kingdom in days of old, but those days have long passed us by...
-In my heart, #, I still dream of a day when the Kings will return to the throne of Gondor.
-Gondor. Ah, Gondor. The great South-kingdom of old, once! But now, #, this is our long dwindling. The twilight of the West.
-I wish that I could welcome you to Gondor in happier times.
-Ah, sweet galenas! Such a beautiful, fragrant herb. One often finds it growing in these lands, #.
-If you should chance upon a wild growth of westmansweed, you'd be wise to pick it and take it home.
-You're not from around these parts, are you, #?
-I'd rather be down at the tavern right now.
-There's some troubling news going around. I can tell you that much.
-I should warn you, #. Gondor is not as it once was.
-They say the shadow of Mordor is growing in the East.
-How do you fare?
-Do you have anything to drink?
-You don't look much like a Man of Gondor, #. You're not from the South, are you?
-Which village do you come from, #?
-There is little quite so beautiful as the sight of the Sun's first rays cast upon the white mountain-peaks.
-When I was younger, I dreamed of becoming a Swan Knight of Dol Amroth. Those times seem far away now.
-We do what we can to survive, #. But if the Enemy comes, we will not be able to do much.
-Good day, #! But do I mean to say that the day is good, or that it is a day to be good on?
-I hope that my family shall not be conscripted into the levies of Gondor.
-We built a wall around the fields of Pelennor to keep the Orc-raids out. We should do the same at Poros, if you ask me.
-We are truth-speakers, we Men of Gondor.
-The heroes of Gondor shall rise to protect us, #.
-Welcome, #. What business brings you to Gondor?
-You come on a fine day, #. The Orcs have not raided our lands in more than a week.
-Fine day for it.
-Hello there, #!
-The old tomb-mound of Elendil is named Halifirien in the tongue of Rohan. But his casket was sent to the Silent Street of the Stone City, five hundred years ago.
-I have seen with my eyes the ruin of Osgiliath, where once was our capital city. But for five hundred years, that city has been host to naught but silent grief, a reminder of Gondor's darkening decline.
-Gondor was once one of the greatest realms of Men. Yet today it is merely a land of crumbling brick, and false hearts...
-I have heard stories that the Kings may one day return and rule Gondor once more. But those are just folk-tales; they cannot be true...
-What news, #?
-What tidings do you carry?
-Tell me, #. What news of lands afar?
-I am your true friend, #, as long as you stand true for Gondor.
-Darkness is gathering on Gondor. And, #, it seems rain-clouds are gathering on the horizon.
-Our crops have been failing, #. I hope for better fortune next year.
-The westmansweed of these fields is a wonderful and fragrant herb.
-The hearts of Men may grow false, #, but our lands are still as fair as ever.
-Many Men out of Ithilien and the South-lands sought refuge here, one hundred years ago. I hope that one day our host will march East and take back those haunted homelands!
-This realm is called Stoningland in the tongue of Rohan. Well, we cannot say we lack for stone, #.
-Are these the last days of Men? Once, Gondor was great, but with every passing day I fear more for our future.
-There is a cold darkness coming down onto the realms of Men.
-Truly, these days are the failing of the race of Men. It seems even my crops are failing.
-The scholars speak of days when Gondor was a shining jewel among the realms of Men. I fear those days are forever lost, #.
-Tall ships and tall kings, three times three. What brought they from the foundered land, over the flowing sea? Seven stars, and seven stones, and one white tree.
-Have you any fair tidings, #?
-Men from the outlands are coming to the heartlands, away from conflict. They bring trouble, but I think we'll manage.
-Come, #, tell me a tale to cheer my heart.
-I must return to work, #. Those fields won't till themselves.
-Ah, #! I believe we have met before. Or am I mistaken?
-Well met, #!
-Well met.
-I shall not bore you with old tales of the village.
+Bienvenue à Gondor, #!
+Bonne journée, #.
+Bienvenue, mon seigneur. Y a-t-il quelque chose que je puisse faire pour vous?
+Gondor vous souhaite la bienvenue, #.
+Ce sont des temps sombres pour Gondor, #.
+Les hommes murmurent que des créatures sont tombées à l'est, et racontent des histoires d'une peur sans nom ...
+Bienvenue, #. Serais-tu venu au Gondor dans des jours plus heureux?
+N'ayez pas peur, mon ami. Rohan viendra à notre aide. Ils viennent toujours à notre aide.
+Ce sont des temps troublés pour notre peuple. Les ténèbres se rassemblent en Mordor, et les seigneurs de la ville blanche sont silencieux.
+Ce pays est ma maison, #. Je crains pour nous tous dans ces jours sombres.
+Ce pays était un grand royaume dans les vieux jours, mais ces jours nous ont longtemps passé ...
+Dans mon cœur, #, je rêve encore d'un jour où les Rois reviendront au trône de Gondor.
+Gondor. Ah, Gondor. Le grand royaume du Sud d'autrefois, une fois! Mais maintenant, #, c'est notre longue diminution. Le crépuscule de l'Ouest.
+Je souhaite que je pourrais vous souhaiter la bienvenue a Gondor dans des périodes plus heureuses.
+Ah, galènes douces! Une belle herbe parfumée. On le trouve souvent croissant dans ces terres, #.
+Si vous deviez faire face à une croissance sauvage de Westmansweed, vous seriez sage de le ramasser et de le ramener à la maison.
+Vous n'êtes pas d'autour de ces parties, êtes-vous, #?
+Je préférerais être à la taverne en ce moment.
+Il y a des nouvelles troublantes qui circulent. Je peux vous dire beaucoup.
+Je devrais vous avertir, #. Gondor n'est pas comme autrefois.
+Ils disent que l'ombre du Mordor se développe à l'Est.
+Comment allez-vous?
+Avez-vous quelque chose à boire?
+Vous ne ressemblez pas beaucoup à un homme de Gondor, #. Vous n'êtes pas du Sud, n'est-ce pas?
+De quel village viens-tu, #?
+Il n'y a rien de si beau que la vue des premiers rayons du Soleil jetés sur les sommets blancs.
+Quand j'étais plus jeune, j'ai rêvé de devenir un chevalier Swan de Dol Amroth. Ces temps semblent loin maintenant.
+Nous faisons ce que nous pouvons pour survivre, #. Mais si l'Ennemi vient, nous ne serons pas capables de faire beaucoup.
+Bonne journée, #! Mais est-ce que je veux dire que le jour est bon, ou que c'est un jour pour être bon?
+J'espère que ma famille ne sera pas enrôlée dans les levées de Gondor.
+Nous avons construit un mur autour des champs du Pelennor pour empêcher les Orques de sortir. Nous devrions faire la même chose à Poros, si vous me demandez.
+Nous sommes des orateurs de vérité, nous hommes de Gondor.
+Les héros de Gondor se lèveront pour nous protéger, #.
+Bienvenue, #. Quelles affaires vous amène à Gondor?
+Vous venez un beau jour, #. Les Orcs n'ont pas attaqué nos terres pendant plus d'une semaine.
+Beau jour pour ça.
+Bonjour, #!
+L'ancien tombeau d'Elendil s'appelle Halifirien dans la langue de Rohan. Mais son cercueil fut envoyé dans la rue silencieuse de la Cité de Pierre, il y a cinq cents ans.
+J'ai vu de mes yeux la ruine d'Osgiliath, où était autrefois notre capitale. Mais depuis cinq cents ans, cette ville n'a été l'hôte que d'un chagrin silencieux, un rappel du déclin de plus en plus profond de Gondor.
+Gondor était autrefois l'un des plus grands royaumes des hommes. Pourtant, aujourd'hui, il est simplement une terre de brique en ruine, et de faux cœurs ...
+J'ai entendu dire que les Rois pourraient un jour revenir et gouverner Gondor une fois de plus. Mais ce ne sont que des contes populaires; ils ne peuvent pas être vrais ...
+Quoi de neuf, #?
+Quelles nouvelles portez-vous?
+Dîtes-moi, #. Quelles nouvelles des terres au loin?
+Je suis ton vrai ami, #, tant que tu es fidèle à Gondor.
+Les ténèbres se rassemblent sur Gondor. Et, #, il semble que les nuages ​​de pluie se rassemblent à l'horizon.
+Nos récoltes ont échoué, #. J'espère pour une meilleure fortune l'année prochaine.
+Le Westmansweed de ces champs est une herbe merveilleuse et parfumée.
+Le cœur des hommes peut devenir faux, mais nos terres sont toujours aussi belles.
+Beaucoup d'hommes d'Ithilien et des pays du Sud ont cherché refuge ici, il y a cent ans. J'espère qu'un jour notre hôte marchera vers l'est et ramènera ces terres ancestrales hantées!
+Ce royaume s'appelle Stoningland dans la langue de Rohan. Eh bien, nous ne pouvons pas dire que nous manquons de pierre, #.
+Sont-ce les derniers jours des hommes? Une fois, Gondor était génial, mais chaque jour qui passe me fait craindre plus pour notre avenir.
+Il y a une obscurité froide qui descend sur les royaumes des hommes.
+Vraiment, ces jours-ci sont l'échec de la course des hommes. Il semble que même mes récoltes échouent.
+Les savants parlent des jours où Gondor était un joyau brillant parmis les royaumes des hommes. Je crains que ces jours soient perdus pour toujours, #.
+Grands voiliers et grands rois, trois fois trois. Qu'est-ce qui les a amenés de la terre engloutie, au-dessus de la mer qui coule? Sept étoiles et sept pierres et un arbre blanc.
+Avez-vous justes des nouvelles, #?
+Les hommes des terres viennent au cœur du pays, loin des conflits. Ils apportent des problèmes, mais je pense que nous allons nous débrouiller.
+Viens, #, dis-moi un conte pour remonter le moral.
+Je dois retourner au travail, #. Ces champs ne se laboureront pas.
+Ah, #! Je crois que nous nous sommes déjà rencontrés. Ou est-ce que je me trompe?
+Bien rencontré, #!
+Bien rencontré.
+Je ne vous ennuierai pas avec les vieux contes du village.

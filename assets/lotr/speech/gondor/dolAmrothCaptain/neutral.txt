@@ -1,12 +1,12 @@
-Only the strongest friends of Dol Amroth may command its armies, #.
-If you wish to command the forces of Dol Amroth, you must prove that we can trust you.
-Are you friend or foe, #?
-They say you are a friend of Dol Amroth, but I cannot be sure until you have done more good.
-One does not simply command the Swan Knights without earning some reputation first.
-You are not yet thought of highly enough to lead our soldiers into battle, #.
-Show us that you can be trusted, #, and we will allow you to lead our warriors.
-You wish to command my soldiers? You'll have to prove yourself to the people of Dol Amroth first, #.
-Only a true friend of the Princes can lead our valiant soldiers into battle.
-You'll have to prove yourself as an ally of Dol Amroth before you can command my troops, #.
-You must do more good deeds for the people of Dol Amroth if you wish to command our armies.
-Prove your allegiance to the Princes of Dol Amroth and I will let you command my soldiers.
+Seuls les amis les plus forts de Dol Amroth peuvent commander ses armées, #.
+Si vous souhaitez commander les forces de Dol Amroth, vous devez prouver que nous pouvons vous faire confiance.
+Êtes-vous ami ou ennemi, #?
+Ils disent que vous êtes un ami de Dol Amroth, mais je ne peux pas être sûr que vous ayez fait plus de bien.
+On ne commande pas simplement les Chevaliers de Cygne sans gagner d'abord la réputation.
+Vous n'êtes pas encore assez hautement considéré pour mener nos soldats au combat, #.
+Montre-nous qu'on peux avoir confiance, #, et nous te permettrons de diriger nos guerriers.
+Vous souhaitez commander mes soldats? Vous devrez d'abord vous prouver aux gens de Dol Amroth, #.
+Seul un véritable ami des princes peut mener nos vaillants soldats au combat.
+Vous devrez vous prouver comme un allié de Dol Amroth avant de pouvoir commander mes troupes, #.
+Vous devez faire plus de bonnes actions pour les gens de Dol Amroth si vous souhaitez commander nos armées.
+Prouve ton allégeance aux princes de Dol Amroth et je te laisserai commander mes soldats.

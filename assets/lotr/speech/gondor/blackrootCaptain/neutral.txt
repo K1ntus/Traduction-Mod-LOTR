@@ -1,12 +1,12 @@
-Only strong friends of the Blackroot Vale may command our armies, #.
-If you wish to command the forces of the Blackroot Vale, you must prove that we can trust you.
-Are you friend or foe, #?
-They say you are a friend of the Men of Mornan, but I cannot be sure until you have done more good.
-One does not simply command Blackroot bowmen without earning some reputation first.
-You are not yet thought of highly enough to lead our bowmen into battle, #.
-Show us that you can be trusted, #, and we will allow you to lead our soldiers.
-You wish to command my bowmen? You'll have to prove yourself to the people of the Blackroot first, #.
-Only a true friend of the Blackroot Vale can lead our valiant soldiers into battle.
-You'll have to prove yourself as an ally of the Mornan-folk before you can command my bows, #.
-You must do more good deeds for the people of these vales if you wish to command our armies.
-Prove your allegiance to the Blackroot Vale and I will let you command my warriors.
+Seuls les amis forts de la Vallée Noire peuvent commander nos armées, #.
+Si vous souhaitez commander les forces de la Vallée Noire, vous devez prouver que nous pouvons vous faire confiance.
+Êtes-vous ami ou ennemi, #?
+Ils disent que vous êtes un ami des Hommes de Mornan, mais je ne peux pas être sûr que vous ayez fait plus de bien.
+On ne commande pas simplement les archers de Blackroot sans gagner une certaine réputation en premier.
+Vous n'êtes pas encore assez hautement considéré pour mener nos archers au combat, #.
+Montre-nous que tu peux avoir confiance, #, et nous te permettrons de diriger nos soldats.
+Vous souhaitez commander mes archers? Vous devrez d'abord vous prouver aux gens de la Blackroot, #.
+Seul un véritable ami de la vallée Blackroot peut mener nos vaillants soldats au combat.
+Vous devrez vous prouver comme un allié du peuple Mornan avant de pouvoir commander mes archers, #.
+Vous devez faire plus de bonnes actions pour les gens de ces vallées si vous souhaitez commander nos armées.
+Prouve ton allégeance à la Vallée Noire et je te laisserai commander mes guerriers.
