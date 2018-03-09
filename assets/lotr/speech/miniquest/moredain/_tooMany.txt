@@ -1,14 +1,15 @@
-You have already sworn to help others, #.
-Remember the promises you made to my brothers and sisters.
-You are too busy. I will ask no more of you.
-It would not be good of me to burden you with even more tasks, #.
-I can see you are already busy with tasks, #.
-Keep to your promises, #! Make good on them! Do not be like the Forest-Men.
-Have you not already pledged to help others of my kin?
-You are gracious to offer me help, #, but you would be better to remember the promises you made to others.
-It would not be wise to give my tasks to one who has forgotten their promises.
-No, #. I shall ask no more of you.
-Aren't you busy with others, #? I cannot ask more of you.
-Even the beasts of the plains are more loyal than you.
-Others have asked for your help, #, and you have promised it. You should remember that.
-I can ask no more of you while you let your promises go forgotten.
+Tu as déjà juré d'aider les autres, #.
+Souvenez-vous des promesses que vous avez faites à mes frères et sœurs.
+Tu es trop occupé. Je ne vous demanderai plus rien.
+Ce ne serait pas gentil de ma part de t'imposer encore plus de tâches.
+Je vois que vous êtes déjà occupé avec des tâches, #.
+Tenez vos promesses, #! Faites-leur du bien! Ne soyez pas comme les hommes de la forêt.
+N'avez-vous pas déjà promis d'aider les autres de ma famille?
+Tu es bienveillant de m'aider, #, mais tu ferais mieux de te souvenir des promesses que tu as faites aux autres.
+Il ne serait pas sage de confier mes tâches à quelqu'un qui a oublié ses promesses.
+Non, #. Je ne vous demanderai plus rien.
+Tu n'es pas occupé avec les autres, #? Je ne peux pas vous en demander plus.
+Même les bêtes des plaines sont plus loyales que toi.
+D'autres ont demandé votre aide, #, et vous l'avez promis. Tu devrais t'en souvenir.
+Je ne peux plus rien te demander pendant que tu laisses tes promesses tomber dans l'oubli.
+

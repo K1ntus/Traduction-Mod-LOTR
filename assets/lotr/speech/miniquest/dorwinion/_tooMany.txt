@@ -1,7 +1,7 @@
-Hey ho, #! I can't ask you to help. You've got unfinished business.
-Well, #, it wouldn't be right of me to burden you with more to do.
-You're already busy, aren't you, #?
-Well, #! I appreciate the offer, but aren't you busy already?
-Haven't you already promised to help those others, #?
-You're already busy, #.
-I can't ask more of you, #. You're already busy.
+Hey ho, #! Je ne peux pas vous demander de m'aider. Vous avez des choses à régler.
+Et bien, #, ce ne serait pas juste de ma part de t'imposer plus de choses à faire.
+Tu es déjà occupé, n'est-ce pas?
+Eh bien, #! J'apprécie l'offre, mais vous n'êtes pas déjà occupé?
+N'as-tu pas déjà promis d'aider les autres, #?
+Tu es déjà occupé, #.
+Je ne peux pas t'en demander plus, #. Tu es déjà occupé.

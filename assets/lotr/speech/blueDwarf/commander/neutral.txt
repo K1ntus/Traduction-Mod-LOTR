@@ -1,11 +1,11 @@
-You'll have to prove your worth if you want to hire some units, #.
-You want to hire my Dwarves? Go and kill some more Orcs first, or something.
-I'll have to trust you more before I can let you command my Dwarves.
-Prove your allegiance to the Blue Mountains, and they will follow you into battle!
-You've got no chance of commanding a Dwarven army without some deeds to your name, lad!
-Dwarves only follow into battle those whom we can trust!
-I will not let any simple Man command my lads. Prove your worth to our kin and then come back!
-You want to hire some Dwarves? You must prove your standing amongst our people first!
-How many Orcs did you kill? I say not enough. Come back when you do more deeds.
-My lads will not follow any stranger into battle. Prove yourself!
-Who are you? I have not heard of you. Kill some Orcs and give a meaning to your name!
+Vous devrez prouver votre valeur si vous voulez louer des unités, #.
+Vous voulez embaucher mes Nains? Allez tuer d'autres Orques en premier ou quelque chose comme ça.
+Je vais devoir te faire confiance avant que je puisse te laisser commander mes Nains.
+Prouvez votre allégeance aux Montagnes Bleues, et ils vous suivront dans la bataille!
+Vous n'avez aucune chance de commander une armée de nains sans quelques actes à votre nom, mon garçon!
+Les nains ne font que suivre ceux qui nous font confiance!
+Je ne laisserai aucun homme simple commander mes gars. Prouvez votre valeur à nos parents et revenez!
+Vous voulez embaucher des nains? Vous devez d'abord prouver votre réputation auprès de notre peuple!
+Combien d'Orques avez-vous tué? Je dis que c'est pas assez. Revenez quand vous faites plus d'actes.
+Mes gars ne suivront aucun étranger dans la bataille. Prouvez-vous!
+Qui es-tu? Je n'ai pas entendu parler de toi. Tuez des Orques et donnez un sens à votre nom!

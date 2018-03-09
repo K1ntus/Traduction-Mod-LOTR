@@ -1,10 +1,10 @@
-A Dwarf does not just offer to trade his wealth with any stranger who comes along!
-If you want to trade, #, you'll need to do some more to prove yourself!
-The wealth of the Dwarves is surpassed by no other race, #!
-You'll need to earn yourself a bit of a reputation before we can trade, #!
-These mountains are full of riches.
-We Dwarves don't simply trade with any stranger that passes by!
-The smith-skill of my kin is unmatched!
-You wish to trade with me? You'll have to prove your standing amongst my kin first!
-Sorry, #! I don't trade with strangers.
-We Dwarves are great miners! Our shafts and holes reach down to the very depths of the Earth!
+Un nain ne propose pas seulement d'échanger sa richesse avec n'importe quel étranger qui arrive!
+Si vous voulez échanger, #, vous devrez en faire plus pour vous prouver!
+La richesse des Nains n'est surpassée par aucune autre race, #!
+Vous devrez gagner un peu de réputation avant de pouvoir échanger, #!
+Ces montagnes sont pleines de richesses.
+Nous nains ne faisons pas simplement du commerce avec un étranger qui passe!
+La compétence de Forgeron de mes parents est inégalée!
+Vous souhaitez échanger avec moi? Vous devrez d'abord prouver votre réputation auprès de mes proches!
+Pardon, #! Je ne négocie pas avec des étrangers.
+Nous, les nains, sommes de bons mineurs! Nos puits et nos trous atteignent les profondeurs de la Terre!
